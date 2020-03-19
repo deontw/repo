@@ -44,3 +44,16 @@ Description: 註銷工具，在系統設定裡打開，支援繁體中文，簡�
 Author: Deon
 Name: Respring Helper
 
+Package: com.deon.flyjb.tw
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.deon.flyjb.tw_1.0_iphoneos-arm.deb
+Size: 2042
+MD5sum: 8c7cfd2ec24e8cd1de111e09b18c89b6
+SHA1: 02d1746f8c68354b0955df2c33f91a3501c439a5
+SHA256: c758a692a1ab1e384eab93d5fc6fbe0e6b8b49c8b54f7c9bb23d0081604bd75c
+Section: Tweaks
+Description: FlyJB 繁體中文包🇹🇼。FlyJB作者源：https://repo.xsf1re.kr/
+Name: FlyJB 繁體中文包
+
