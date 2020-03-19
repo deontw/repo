@@ -12,6 +12,22 @@ Description: App to install Diatrus' Cydia fork, APT fork, and Sileo. This allow
 Author: Hayden Seay <me@diatr.us>
 Name: Diatrus Installer
 
+Package: apt.deonrepo.net.fixnetworkcn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Depends: firmware (>= 5.0)
+Filename: ./debs/apt.deonrepo.net.fixnetworkcn_1.0_iphoneos-arm.deb
+Size: 3244
+MD5sum: f12c01cc1db9d025731e188dc49b61ac
+SHA1: 348e69bdab0f4c87e274b3df6526a98145078801
+SHA256: b6d9b5e1a78330b5904f9de6f957bd7c100f06740a64736dbf2010ae03322790
+Section: Tweaks
+Priority: optional
+Description: Fix China Models Network修復中國大陸設備聯網（此插件只修復Cydia和Sileo）修復完成後推薦安裝Globalize
+Author: Deon
+Name: Fix Network CN
+
 Package: apt.deonrepo.net.respringhelper
 Version: 0.9~beta3
 Architecture: iphoneos-arm
