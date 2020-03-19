@@ -1,3 +1,17 @@
+Package: apt.deonrepo.net.diatrusinstaller
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Hayden Seay <me@diatr.us>
+Depends: zsh, firmware (>=12.2) | org.swift.libswift (>=5.0), mobilesubstrate
+Filename: ./debs/apt.deonrepo.net.diatrusinstaller_1.1_iphoneos-arm.deb
+Size: 7802510
+MD5sum: 012613acca883e515a7a8ed1511c7b96
+SHA1: 633e4b867ffdd7641a51d0dcf6118dd1291b8466
+SHA256: f7b907917db88cac4ba7f7b89c92032d54d02ec458764fdcd5f1f1c246fdd9c3
+Description: App to install Diatrus' Cydia fork, APT fork, and Sileo. This allows you to uninstall Cydia, use it alongside Sileo, or use another package manager entirely and remove both Cydia and Sileo. Jailbreak your jailbreak.現在已經被GetSileo代替，讓越獄設備同時有兩個越獄商店，安裝以後用root權限輸入如下命令run dpkg -i /Applications/DiatrusInstaller.app/debs/*最後清除緩存註銷，不懂的盡量不要安裝
+Author: Hayden Seay <me@diatr.us>
+Name: Diatrus Installer
+
 Package: apt.deonrepo.net.respringhelper
 Version: 0.9~beta3
 Architecture: iphoneos-arm
