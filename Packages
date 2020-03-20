@@ -2,12 +2,12 @@ Package: apt.deonrepo.net.dfu
 Version: 1.0
 Architecture: iphoneos-arm
 Filename: ./debs/apt.deonrepo.net.dfu_1.0_iphoneos-arm.deb
-Size: 52792
-MD5sum: f5fc3acb13ab4fb6464e9b3d33e16e57
-SHA1: e1ed69352aa241683990d6e6271873f7cc040a2a
-SHA256: 888300ba33712ff6a14b5f90859f5652b7ebd2e6163c4cecdd6822e9d92124d8
+Size: 52790
+MD5sum: ded90e342c32f075ff4fb1c24948b468
+SHA1: 6ac6a85ff7186951fd34bfa673f8254d951fe86d
+SHA256: b76630fcec8ccc034a82e3246ea35843ce66b99056809b248961b80450f7f603
 Section: System
-Description: 僅限iPhone 4s與IPad 2安裝降級使用！！！其他的千萬不要安裝！！！出現問題後果自負
+Description: 僅限iPhone 4s與iPad 2安裝降級使用！！！其他的千萬不要安裝！！！出現問題後果自負
 Author: 红V
 Name: 進入降級DFU模式
 
