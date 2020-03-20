@@ -57,6 +57,20 @@ Description: Fix China Models Network修復中國大陸設備聯網（此插件�
 Author: Deon
 Name: Fix Network CN
 
+Package: apt.deonrepo.net.httpsrepo
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/apt.deonrepo.net.httpsrepo_1.1_iphoneos-arm.deb
+Size: 12664
+MD5sum: 8e52cad8eab8ddb32f6e216260843c2e
+SHA1: 1d62e9b26b86fc50f8892bf37e5d2b7aa2aeed34
+SHA256: 89cfa914c65f90b4232d6f0437a5d5fb5b2c810ecb7bf6c16c96bfd56a477d1b
+Section: Tweaks
+Description: 讓Cydia添加來源時默認以https://開頭，主要用於GetSileo裡面的Cydia，unc0ver自帶的Cydia請忽略。Change http:// to https:// when add a new repo in Cydia. Especially GetSileo’s Cydia. If you are already https://. Just ignore
+Author: Deon
+Name: Https Repo
+
 Package: apt.deonrepo.net.respringhelper
 Version: 0.9~beta3
 Architecture: iphoneos-arm
