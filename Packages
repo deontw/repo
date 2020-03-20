@@ -1,3 +1,19 @@
+Package: apt.deonrepo.net.7days-antirevoke
+Version: 0.0.2~fixbydeon
+Architecture: iphoneos-arm
+Installed-Size: 688
+Depends: mobilesubstrate
+Conflicts: netskao.antirevoke
+Filename: ./debs/apt.deonrepo.net.7days-antirevoke_0.0.2~fixbydeon_iphoneos-arm.deb
+Size: 214354
+MD5sum: 7685613a8d5c9fec5ef1b1cd3c70270c
+SHA1: 6990968499258dca3bbd54540178947d3057465c
+SHA256: 53bfb58978545ef0078cbdf92670adb2b602006bf769de83707bdbdfbd28e8c2
+Section: Tweaks
+Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配新系統。No more revocations anymore. This tweak consults 7Days - AntiRevoke
+Author: 180 & Deon
+Name: 7Days - AntiRevoke
+
 Package: apt.deonrepo.net.dfu
 Version: 1.0
 Architecture: iphoneos-arm
