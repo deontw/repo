@@ -71,6 +71,22 @@ Description: 讓Cydia添加來源時默認以https://開頭，主要用於GetSil
 Author: Deon
 Name: Https Repo
 
+Package: apt.deonrepo.net.march
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 824
+Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin
+Filename: ./debs/apt.deonrepo.net.march_1.1_iphoneos-arm.deb
+Size: 217706
+MD5sum: 9b7334ee5721fce66b06a5aab124e337
+SHA1: 39954de68c96c28c64e1790876b4c1c54400aca1
+SHA256: 3055eebf26f5b0087c107e1853871cf113b04a95c34baf81d3ed5e03fb180442
+Section: System
+Description: 系統省電插件，支援繁體中文，簡體中文和英語。A tweak that can make your device use longer.  Support English , Chinese Traditional, and Chinese Simplified.
+Author: Deon
+Name: March
+
 Package: apt.deonrepo.net.respringhelper
 Version: 0.9~beta3
 Architecture: iphoneos-arm
