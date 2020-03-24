@@ -117,6 +117,21 @@ Description: 針對 Sileo 加入繁體中文
 Author: Deon
 Name: Sileo 繁體中文化
 
+Package: apt.deonrepo.net.untetheredkeyboard
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Depends: mobilesubstrate
+Filename: ./debs/apt.deonrepo.net.untetheredkeyboard_1.0_iphoneos-arm.deb
+Size: 4438
+MD5sum: 84a8b7a40dbb0b222390d4b63bb9424c
+SHA1: f301fcc0ec985d71d5eee266d4a9f23ab55dbc14
+SHA256: dfdf9112095b637d2fe75f732ab5e9966354c3baee89120ba40ba6f0b8963c3d
+Section: Tweaks
+Description: 允許在輸入密碼時使用第三方鍵盤，沒有圖標，安裝後即可生效。Allow third-party keyboards to enter your password. This tweak do NOT have any icons or labels. It will work automatically after the installation.
+Author: Deon
+Name: Untethered Keyboard
+
 Package: com.deon.flyjb.tw
 Version: 1.0
 Architecture: iphoneos-arm
