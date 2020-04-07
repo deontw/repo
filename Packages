@@ -87,6 +87,22 @@ Description: 系統省電插件，支援繁體中文，簡體中文和英語。A
 Author: Deon
 Name: March
 
+Package: apt.deonrepo.net.nodock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/apt.deonrepo.net.nodock_1.0_iphoneos-arm.deb
+Size: 4696
+MD5sum: e727b05788feda053005c114cee979ee
+SHA1: 42f55d2c3a5980937ee0b21bb580e39fbd99161b
+SHA256: 876c39ff11623ff18a5682686165bc41f1e591a5374fc921d018bbf9cc855565
+Section: Tweaks
+Description: 隱藏Dock背景，理論上支援iOS 11～iOS 13所有設備。Hide Dock background. Support iOS 11~iOS 13 for all devices.
+Author: Deon
+Name: NoDock
+
 Package: apt.deonrepo.net.respringhelper
 Version: 0.9~beta3
 Architecture: iphoneos-arm
