@@ -43,15 +43,16 @@ Author: Deon
 Name: Arc 繁簡中文包
 
 Package: apt.deonrepo.net.bettersettings.tw
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
-Filename: ./debs/apt.deonrepo.net.bettersettings.tw.deb
-Size: 2716
-MD5sum: 251cc96bb2f92e37b249a20eb122d493
-SHA1: 790a68e5bcb8307f0ec7526904c3d00c487f3f49
-SHA256: 4fcf82cb8741912621103aa7916af4bdf0e92f518c4fd39ab093490186b15677
+Filename: ./debs/apt.deonrepo.net.bettersettings.tw_1.2_iphoneos-arm.deb
+Size: 2724
+MD5sum: 63f4b03b8409346be36cdf41cdcb297e
+SHA1: 3b85f974642ea53b267e7878bebddf1c9b4a5790
+SHA256: 2dfbaa23eea9f5bb99e6f8a20399cbe3f539d69a184bb720a74b075a7164ee94
 Section: Localization
 Description: 為BetterSettings添加繁體中文/簡體中文語言體系
+Author: Deon
 Name: BetterSettings 繁簡中文包
 
 Package: apt.deonrepo.net.dfu
