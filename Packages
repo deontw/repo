@@ -145,6 +145,20 @@ Description: 註銷工具，在系統設定裡打開，支援繁體中文，簡�
 Author: Deon
 Name: Respring Helper
 
+Package: apt.deonrepo.net.shadow.tw
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Deon
+Filename: ./debs/apt.deonrepo.net.shadow.tw.deb
+Size: 6346
+MD5sum: 1efc28a167790c751652166705f1c865
+SHA1: 8a1871e6f8285e52c85f310aea585b81af86ce36
+SHA256: 657c1c6081c2f4b6ccffd9c6b4dba2916b9f2be4d8cc175905148854a6a5d3f4
+Section: Localization
+Description: 為Shadow添加繁體中文/簡體中文語言體系
+Author: Deon
+Name: Shadow 繁簡中文包
+
 Package: apt.deonrepo.net.sileocht
 Version: 1.0
 Architecture: iphoneos-arm
