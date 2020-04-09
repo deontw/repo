@@ -14,6 +14,18 @@ Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配
 Author: 180 & Deon
 Name: 7Days - AntiRevoke
 
+Package: apt.deonrepo.net.bettersettings.tw
+Version: 1.1
+Architecture: iphoneos-arm
+Filename: ./debs/apt.deonrepo.net.bettersettings.tw.deb
+Size: 2716
+MD5sum: 251cc96bb2f92e37b249a20eb122d493
+SHA1: 790a68e5bcb8307f0ec7526904c3d00c487f3f49
+SHA256: 4fcf82cb8741912621103aa7916af4bdf0e92f518c4fd39ab093490186b15677
+Section: Localization
+Description: 為BetterSettings添加繁體中文/簡體中文語言體系
+Name: BetterSettings 繁簡中文包
+
 Package: apt.deonrepo.net.dfu
 Version: 1.0
 Architecture: iphoneos-arm
@@ -147,17 +159,4 @@ Section: Tweaks
 Description: 允許在輸入密碼時使用第三方鍵盤，沒有圖標，安裝後即可生效。Allow third-party keyboards to enter your password. This tweak do NOT have any icons or labels. It will work automatically after the installation.
 Author: Deon
 Name: Untethered Keyboard
-
-Package: com.deon.flyjb.tw
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/com.deon.flyjb.tw_1.0_iphoneos-arm.deb
-Size: 2044
-MD5sum: df110f97c851321256a12b3cdc3cc569
-SHA1: e489a5765b8fe24ee7d03bd1d61e4f879ac2c8c9
-SHA256: d7d9fc2a5cf7a6528bf335b8511ffb1451c10075220e01d28cbe63604298965c
-Section: Localization
-Description: FlyJB 繁體中文包🇹🇼。FlyJB作者源：https://repo.xsf1re.kr/
-Name: FlyJB 繁體中文包
 
