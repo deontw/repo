@@ -14,6 +14,20 @@ Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配
 Author: 180 & Deon
 Name: 7Days - AntiRevoke
 
+Package: apt.deonrepo.net.arc.tw
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Deon
+Filename: ./debs/apt.deonrepo.net.arc.tw.deb
+Size: 1604
+MD5sum: 23f7c475400ca1873870d26865b40a6f
+SHA1: 9c8070b570c4051ceec887f291246afeda173dc7
+SHA256: 730344d5e8e2ff4b9b9b79270a7cb1d6fe86ffe281ccd4575cbe019416bfad9e
+Section: Localization
+Description: 為Arc添加繁體中文/簡體中文語言體系
+Author: Deon
+Name: Arc 繁簡中文包
+
 Package: apt.deonrepo.net.bettersettings.tw
 Version: 1.1
 Architecture: iphoneos-arm
