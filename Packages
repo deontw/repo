@@ -188,6 +188,20 @@ Description: 針對 Sileo 加入繁體中文
 Author: Deon
 Name: Sileo 繁體中文化
 
+Package: apt.deonrepo.net.tinybanners2.tw
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Deon
+Filename: ./debs/apt.deonrepo.net.tinybanners2.tw_1.2_iphoneos-arm.deb
+Size: 3814
+MD5sum: 2792ce1b02737dee671bf0153e04cbf8
+SHA1: de6a85aa54698cdc65ebed9fd78b995e79b153e4
+SHA256: 002a63961c4ef71c3feebf7a047eb1baafc92eb01f2314b6da517ebb23b501a0
+Section: Localization
+Description: 為TinyBanners 2添加繁體中文/簡體中文語言體系
+Author: Deon
+Name: TinyBanners 2 繁簡中文包
+
 Package: apt.deonrepo.net.untetheredkeyboard
 Version: 1.0
 Architecture: iphoneos-arm
