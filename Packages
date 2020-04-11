@@ -144,6 +144,20 @@ Description: 隱藏Dock背景，理論上支援iOS 11～iOS 13所有設備。Hid
 Author: Deon
 Name: NoDock
 
+Package: apt.deonrepo.net.pulloverpro.tw
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Deon
+Filename: ./debs/apt.deonrepo.net.pulloverpro.tw_1.1_iphoneos-arm.deb
+Size: 2184
+MD5sum: e76c8ac8355c648998681e5eed7f8753
+SHA1: 8d8cd37f3b18cac913a21fd4a556ffb258e0a545
+SHA256: 648ffc566c8a6cc06d9261fae6d1787e02cf9d878e4785a993e9bf7c444fc8c9
+Section: Localization
+Description: 為PullOver Pro添加繁體中文/簡體中文語言體系
+Author: Deon
+Name: PullOver Pro 繁簡中文包
+
 Package: apt.deonrepo.net.respringhelper
 Version: 0.9~beta3
 Architecture: iphoneos-arm
@@ -173,6 +187,20 @@ Section: Localization
 Description: 為Shadow添加繁體中文/簡體中文語言體系
 Author: Deon
 Name: Shadow 繁簡中文包
+
+Package: apt.deonrepo.net.shuffle.tw
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Deon
+Filename: ./debs/apt.deonrepo.net.shuffle.tw_1.4_iphoneos-arm.deb
+Size: 3612
+MD5sum: 7f53dc5d4b9d66641cbc0fdf91819148
+SHA1: cb26ef0dd10455f7c72dd575ee17355fe2693a49
+SHA256: 1ced8299fc4d51c9f46935a0bad0f1cc6c3bd7d9dd26b8442872f04e1f8617f0
+Section: Localization
+Description: 為shuffle添加繁體中文/簡體中文語言體系
+Author: Deon
+Name: shuffle 繁簡中文包
 
 Package: apt.deonrepo.net.sileocht
 Version: 1.0
