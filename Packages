@@ -174,6 +174,20 @@ Description: 註銷工具，在系統設定裡打開，支援繁體中文，簡�
 Author: Deon
 Name: Respring Helper
 
+Package: apt.deonrepo.net.sareth.tw
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Deon
+Filename: ./debs/apt.deonrepo.net.sareth.tw_1.6_iphoneos-arm.deb
+Size: 3332
+MD5sum: 60283acb7c9a7ae95dbb03d6a532a1c5
+SHA1: 65119a783b54607e778eec37ae0fd054639d0b3f
+SHA256: 056ac3c70c87901a7fff882e866319b8d1d3305867b452cc00ed5aed595d3589
+Section: Localization
+Description: 為Sareth添加繁體中文/簡體中文語言體系
+Author: Deon
+Name: Sareth 繁簡中文包
+
 Package: apt.deonrepo.net.shadow.tw
 Version: 1.1
 Architecture: iphoneos-arm
