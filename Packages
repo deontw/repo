@@ -175,14 +175,14 @@ Author: Deon
 Name: Respring Helper
 
 Package: apt.deonrepo.net.sareth.tw
-Version: 1.6
+Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.sareth.tw_1.6_iphoneos-arm.deb
-Size: 3332
-MD5sum: 60283acb7c9a7ae95dbb03d6a532a1c5
-SHA1: 65119a783b54607e778eec37ae0fd054639d0b3f
-SHA256: 056ac3c70c87901a7fff882e866319b8d1d3305867b452cc00ed5aed595d3589
+Filename: ./debs/apt.deonrepo.net.sareth.tw_1.7_iphoneos-arm.deb
+Size: 2906
+MD5sum: 25c6cfacbb12463ae8f04995849849a3
+SHA1: d60e6982db29d96961d864fcd02431b1200685cd
+SHA256: b3e9ba232575ea111ce63a8ff6cec1a704c83029007b36c684d28d6d7413b8fa
 Section: Localization
 Description: 為Sareth添加繁體中文/簡體中文語言體系
 Author: Deon
