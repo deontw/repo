@@ -259,6 +259,19 @@ Description: 允許在輸入密碼時使用第三方鍵盤，沒有圖標，安�
 Author: Deon
 Name: Untethered Keyboard
 
+Package: apt.deonrepo.net.xeninfo.tw
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/apt.deonrepo.net.xeninfo.tw_1.0_iphoneos-arm.deb
+Size: 3554
+MD5sum: aea83f0c7459d0d6db6e72a21703c89f
+SHA1: ef75fe09f563aeb9df1a2314f03e753562926c84
+SHA256: 89783985ba049fb3bbf6629a0b0235cdeaec582322806855a2fadb620b214cff
+Section: Localization
+Description: 為XenInfo添加繁體中文/簡體中文語言體系
+Author: Deon
+Name: XenInfo 繁簡中文包
+
 Package: apt.deonrepo.net.youtubetools.tw
 Version: 4.2
 Architecture: iphoneos-arm
