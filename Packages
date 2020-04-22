@@ -14,6 +14,23 @@ Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配
 Author: 180 & Deon
 Name: 7Days - AntiRevoke
 
+Package: apt.deonrepo.net.7days-antirevoke
+Version: 0.0.3~fixbydeon
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 688
+Depends: mobilesubstrate
+Conflicts: netskao.antirevoke
+Filename: ./debs/apt.deonrepo.net.7days-antirevoke_0.0.3~fixbydeon_iphoneos-arm.deb
+Size: 214366
+MD5sum: 0248b94300733484a7c319c786a7ea82
+SHA1: c2f4aed43df717c70fb8b1731988aa9240818ef3
+SHA256: 6a906c1d1587def53770ecf8ad972cd72421e9886d396ed5cacde783694cb669
+Section: Tweaks
+Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配新系統。No more revocations anymore. This tweak consults 7Days - AntiRevoke
+Author: 180 & Deon
+Name: 7Days - AntiRevoke
+
 Package: apt.deonrepo.net.accent.tw
 Version: 1.4
 Architecture: iphoneos-arm
@@ -23,6 +40,21 @@ Size: 1714
 MD5sum: e87f72faaf2cb7d1f012761887b6cdb4
 SHA1: 85b0e8d84ad783ff9eb98facb8b3dc3873b1f113
 SHA256: 41f911d444270aca5b88974a7b27b623515bffe95d91763e43c5ffe87c89c370
+Section: Localization
+Description: 為Accent添加繁體中文/簡體中文語言體系
+Author: Deon
+Name: Accent 繁簡中文包
+
+Package: apt.deonrepo.net.accent.tw
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Deon
+Depends: mobilesubstrate
+Filename: ./debs/apt.deonrepo.net.accent.tw_1.5_iphoneos-arm.deb
+Size: 1722
+MD5sum: d1fd39421e496975a9ed2004ba597d62
+SHA1: dd61f3a198f65d6a6a58b649466961d9922818e6
+SHA256: 6ae2c78b956171c5e28cca226095b58aa153690e473390eb7d3c76a4bf928f61
 Section: Localization
 Description: 為Accent添加繁體中文/簡體中文語言體系
 Author: Deon
@@ -50,6 +82,20 @@ Size: 2724
 MD5sum: 63f4b03b8409346be36cdf41cdcb297e
 SHA1: 3b85f974642ea53b267e7878bebddf1c9b4a5790
 SHA256: 2dfbaa23eea9f5bb99e6f8a20399cbe3f539d69a184bb720a74b075a7164ee94
+Section: Localization
+Description: 為BetterSettings添加繁體中文/簡體中文語言體系
+Author: Deon
+Name: BetterSettings 繁簡中文包
+
+Package: apt.deonrepo.net.bettersettings.tw
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Deon
+Filename: ./debs/apt.deonrepo.net.bettersettings.tw_1.3_iphoneos-arm.deb
+Size: 2652
+MD5sum: 0d0bd07f6c1a6d981f4aa2c7d1b4b460
+SHA1: 986aa87923706319bbef2701a6a4926b9d565082
+SHA256: abe1da5d9d4595e99e6b59919a56442724f091d1fc2fd7136f0bfb4f9372cf1b
 Section: Localization
 Description: 為BetterSettings添加繁體中文/簡體中文語言體系
 Author: Deon
