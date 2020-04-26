@@ -208,6 +208,22 @@ Description: 註銷工具，在系統設定裡打開，支援繁體中文，簡�
 Author: Deon
 Name: Respring Helper
 
+Package: apt.deonrepo.net.respringhelper
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/apt.deonrepo.net.respringhelper_1.0_iphoneos-arm.deb
+Size: 8776
+MD5sum: 63ee96bef49656aa1fd5782e70c80356
+SHA1: 68dbc4ecbec336971428fd0227ec30e38180d1d9
+SHA256: 574f9ca67012aa66f2a89e7c99dca039d4e5fcb6ff9733039b2249becc1afcbf
+Section: Tweaks
+Description: 註銷工具，在系統設定裡打開，支援繁體中文，簡體中文，和英語。 A tweak that can Respring easily in the Settings App. Support English, Chinese Traditional, and Chinese Simplified.
+Author: Deon
+Name: Respring Helper
+
 Package: apt.deonrepo.net.sareth.tw
 Version: 1.7
 Architecture: iphoneos-arm
