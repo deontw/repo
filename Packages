@@ -267,18 +267,18 @@ Author: Deon
 Name: shuffle 繁簡中文包
 
 Package: apt.deonrepo.net.sileocht
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.sileocht_1.0_iphoneos-arm.deb
-Size: 5648
-MD5sum: 195abd3ad13fc7171145d873bd49766a
-SHA1: ccfe55399d0e210f4e74556f504caa6cbab372fc
-SHA256: f2423f3448d59a30cadbb74966078ddb1423ef384c47e711af79cb1184875d53
+Filename: ./debs/apt.deonrepo.net.sileocht_1.1_iphoneos-arm.deb
+Size: 5468
+MD5sum: a95e190638962f0f2b763a7e203c4b17
+SHA1: 64042da375b6c75f4b905ba7dd6513f7f7433c2e
+SHA256: 3a5b2919fe94795afd617792a827fefc73b5cca8a949ef379c210b912311ad37
 Section: Localization
 Description: 針對 Sileo 加入繁體中文
 Author: Deon
-Name: Sileo 繁體中文化
+Name: Sileo 繁體中文包
 
 Package: apt.deonrepo.net.tinybanners2.tw
 Version: 1.2
