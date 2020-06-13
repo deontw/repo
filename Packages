@@ -1,20 +1,4 @@
 Package: apt.deonrepo.net.7days-antirevoke
-Version: 0.0.2~fixbydeon
-Architecture: iphoneos-arm
-Installed-Size: 688
-Depends: mobilesubstrate
-Conflicts: netskao.antirevoke
-Filename: ./debs/apt.deonrepo.net.7days-antirevoke_0.0.2~fixbydeon_iphoneos-arm.deb
-Size: 214354
-MD5sum: 7685613a8d5c9fec5ef1b1cd3c70270c
-SHA1: 6990968499258dca3bbd54540178947d3057465c
-SHA256: 53bfb58978545ef0078cbdf92670adb2b602006bf769de83707bdbdfbd28e8c2
-Section: Tweaks
-Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配新系統。No more revocations anymore. This tweak consults 7Days - AntiRevoke
-Author: 180 & Deon
-Name: 7Days - AntiRevoke
-
-Package: apt.deonrepo.net.7days-antirevoke
 Version: 0.0.3~fixbydeon
 Architecture: iphoneos-arm
 Maintainer: Deon
@@ -101,51 +85,6 @@ Description: App to install Diatrus' Cydia fork, APT fork, and Sileo. This allow
 Author: Hayden Seay <me@diatr.us>
 Name: Diatrus Installer
 
-Package: apt.deonrepo.net.fixnetworkcn
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Depends: firmware (>= 5.0)
-Filename: ./debs/apt.deonrepo.net.fixnetworkcn_1.0_iphoneos-arm.deb
-Size: 3244
-MD5sum: f12c01cc1db9d025731e188dc49b61ac
-SHA1: 348e69bdab0f4c87e274b3df6526a98145078801
-SHA256: b6d9b5e1a78330b5904f9de6f957bd7c100f06740a64736dbf2010ae03322790
-Section: Tweaks
-Priority: optional
-Description: Fix China Models Network修復中國大陸設備聯網（此插件只修復Cydia和Sileo）修復完成後推薦安裝Globalize
-Author: Deon
-Name: Fix Network CN
-
-Package: apt.deonrepo.net.httpsrepo
-Version: 1.1
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/apt.deonrepo.net.httpsrepo_1.1_iphoneos-arm.deb
-Size: 12664
-MD5sum: 8e52cad8eab8ddb32f6e216260843c2e
-SHA1: 1d62e9b26b86fc50f8892bf37e5d2b7aa2aeed34
-SHA256: 89cfa914c65f90b4232d6f0437a5d5fb5b2c810ecb7bf6c16c96bfd56a477d1b
-Section: Tweaks
-Description: 讓Cydia添加來源時默認以https://開頭，主要用於GetSileo裡面的Cydia，unc0ver自帶的Cydia請忽略。Change http:// to https:// when add a new repo in Cydia. Especially GetSileo’s Cydia. If you are already https://. Just ignore
-Author: Deon
-Name: Https Repo
-
-Package: apt.deonrepo.net.httpsrepo
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Deon
-Depends: mobilesubstrate
-Filename: ./debs/apt.deonrepo.net.httpsrepo_1.2_iphoneos-arm.deb
-Size: 12674
-MD5sum: a9245ffbac63b4dcc6ea357c44c149bb
-SHA1: 6ee115dcd073f927b018db9ccda66aea5314f66a
-SHA256: 43fc43f8d3ec0a1cb77d39d3da1b2db93cf57bffb51d37aa5d811a6064f64bfa
-Section: Tweaks
-Description: 讓Cydia添加來源時默認以https://開頭，主要用於GetSileo裡面的Cydia，unc0ver自帶的Cydia請忽略。Change http:// to https:// when add a new repo in Cydia. Especially GetSileo’s Cydia. If you are already https://. Just ignore
-Author: Deon
-Name: Https Repo
-
 Package: apt.deonrepo.net.lock
 Version: 2.0
 Architecture: iphoneos-arm
@@ -222,22 +161,6 @@ Section: Localization
 Description: 為PullOver Pro添加繁體中文/簡體中文語言體系
 Author: Deon
 Name: PullOver Pro 繁簡中文包
-
-Package: apt.deonrepo.net.respringhelper
-Version: 0.9~beta3
-Architecture: iphoneos-arm
-Maintainer: Deon
-Installed-Size: 296
-Depends: mobilesubstrate
-Filename: ./debs/apt.deonrepo.net.respringhelper_0.9~beta3_iphoneos-arm.deb
-Size: 8782
-MD5sum: 804729807aa57eb482a0d18af787c790
-SHA1: 00b6f76685fd5ec0649cdb6a759559dce34db402
-SHA256: fbf36c0b8e435363af39e52f12bbe4486116f8d4c82873c1c74900608017e818
-Section: Tweaks
-Description: 註銷工具，在系統設定裡打開，支援繁體中文，簡體中文，和英語。 A tweak that can Respring easily in the Settings App. Support English, Chinese Traditional, and Chinese Simplified.
-Author: Deon
-Name: Respring Helper
 
 Package: apt.deonrepo.net.respringhelper
 Version: 1.0
