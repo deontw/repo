@@ -177,6 +177,22 @@ Description: 系統省電插件，支援繁體中文，簡體中文和英語。A
 Author: Deon
 Name: March
 
+Package: apt.deonrepo.net.march
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 824
+Depends: org.coolstar.libhooker, ws.hbang.common, net.limneos.libbulletin
+Filename: ./debs/apt.deonrepo.net.march_2.0_iphoneos-arm.deb
+Size: 132936
+MD5sum: bc177027b77939a154aa75cbc620363f
+SHA1: 78ef34a8e3ba747e90360d2942bb0924322c4adb
+SHA256: cda27fddca76fb64da4cae3c4d44542b536bcc4e76452afaf766cc887bf2730e
+Section: System
+Description: 系統省電插件，支援繁體中文，簡體中文和英語。A tweak that can make your device use longer.  Support English , Chinese Traditional, and Chinese Simplified.
+Author: Deon
+Name: March
+
 Package: apt.deonrepo.net.nodock
 Version: 1.0
 Architecture: iphoneos-arm
