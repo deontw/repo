@@ -148,6 +148,22 @@ Description: 隱藏Dock背景，理論上支援iOS 11～iOS 13所有設備。Hid
 Author: Deon
 Name: NoDock
 
+Package: apt.deonrepo.net.odysseyfixer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Depends: mobilesubstrate
+Filename: ./debs/apt.deonrepo.net.odysseyfixer_1.0_iphoneos-arm.deb
+Size: 1212
+MD5sum: ab860888d2f4677edb1a7d05fa7ba43d
+SHA1: e56aeb5fd15f0c91ac9ab3454f88fa02bbcc5a38
+SHA256: 90db3278a9583c4074d17d79fd1dc5762d61ec2c874c359dc62b4d085aad590b
+Section: System
+Description: 修復Odyssey越獄黑屏，用這個可以不用輸入終端，重新越獄只需要關閉Enable Tweaks越獄，安裝這個插件即可，注意，每次重新越獄都要重新安裝一次這個插件。 Fix Odyssey Jailbreak black screen. Close Enable Tweaks and install this tweak so that you do not have to use terminal. You have to reinstall it every time when you rejailbreak.
+Author: Deon
+Name: Odyssey Fixer
+Sponsor: Deon
+
 Package: apt.deonrepo.net.pulloverpro.tw
 Version: 1.1
 Architecture: iphoneos-arm
