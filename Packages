@@ -237,28 +237,15 @@ Author: Deon
 Name: shuffle 繁簡中文包
 
 Package: apt.deonrepo.net.sileocht
-Version: 1.1
+Version: 3.0
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.sileocht_1.1_iphoneos-arm.deb
-Size: 5468
-MD5sum: a95e190638962f0f2b763a7e203c4b17
-SHA1: 64042da375b6c75f4b905ba7dd6513f7f7433c2e
-SHA256: 3a5b2919fe94795afd617792a827fefc73b5cca8a949ef379c210b912311ad37
-Section: Localization
-Description: 針對 Sileo 加入繁體中文
-Author: Deon
-Name: Sileo 繁體中文包
-
-Package: apt.deonrepo.net.sileocht
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.sileocht_2.0_iphoneos-arm.deb
-Size: 5756
-MD5sum: a218c46e012b067605dfdff7c34a8867
-SHA1: bdeec42b216bbe64db1c4e18be9cf76eb419f342
-SHA256: 4580d4879f9f4d15220ab6e3d625a0a9772efac68d7751ea584ff1c8448ccbb0
+Conflicts: org.coolstar.sileo (>>1.8.7)
+Filename: ./debs/apt.deonrepo.net.sileocht_3.0_iphoneos-arm.deb
+Size: 5800
+MD5sum: 232243b449d8b7ae3168ea6c423b84b5
+SHA1: 69f645b4b47d220d343a7df834905d5383c53a33
+SHA256: 5b577fb149c5c9639d97186d184d260ce31ce2715f1779cf84688b9799437610
 Section: Localization
 Description: 針對 Sileo 加入繁體中文
 Author: Deon
