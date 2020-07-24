@@ -250,6 +250,20 @@ Description: 針對 Sileo 加入繁體中文
 Author: Deon
 Name: Sileo 繁體中文包
 
+Package: apt.deonrepo.net.sileocht
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Filename: ./debs/apt.deonrepo.net.sileocht_2.0_iphoneos-arm.deb
+Size: 5756
+MD5sum: a218c46e012b067605dfdff7c34a8867
+SHA1: bdeec42b216bbe64db1c4e18be9cf76eb419f342
+SHA256: 4580d4879f9f4d15220ab6e3d625a0a9772efac68d7751ea584ff1c8448ccbb0
+Section: Localization
+Description: 針對 Sileo 加入繁體中文
+Author: Deon
+Name: Sileo 繁體中文包
+
 Package: apt.deonrepo.net.tinybanners2.tw
 Version: 1.2
 Architecture: iphoneos-arm
