@@ -132,6 +132,22 @@ Description: 系統省電插件，支援繁體中文，簡體中文和英語。A
 Author: Deon
 Name: March
 
+Package: apt.deonrepo.net.networkfixer
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 132
+Depends: firmware (>= 11.0)
+Filename: ./debs/apt.deonrepo.net.networkfixer_1.2_iphoneos-arm.deb
+Size: 5208
+MD5sum: 300c38b9c49e3b4cd219255af823366e
+SHA1: 68784f26ade176c45daf4891cba4e57ab1b0f5bc
+SHA256: a60575f7b293600389471594ec5f0605e98f3bb914f5fae90a661686f8cc22c6
+Section: System
+Description: 修復中國大陸設備聯網，這個修復了Cydia, Sileo, Zebra, Installer, Saily, iCleaner Pro, ReProvision, Filza, SuperRecorder, CallRecorder的聯網權限，安裝完成即可卸載。Fix network for China device. This tweak fix the network of Cydia, Sileo, Zebra, Installer, Saily, iCleaner Pro, ReProvision, Filza, SuperRecorder, CallRecorder. You can uninstall it after installing because the network has already fixed.
+Author: Deon
+Name: Network Fixer
+
 Package: apt.deonrepo.net.nodock
 Version: 1.0
 Architecture: iphoneos-arm
