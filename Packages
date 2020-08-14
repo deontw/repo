@@ -58,6 +58,23 @@ Description: 為BetterSettings添加繁體中文/簡體中文語言體系
 Author: Deon
 Name: BetterSettings 繁簡中文包
 
+Package: apt.deonrepo.net.blankicons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 824
+Depends: mobilesubstrate, preferenceloader, firmware (>=9.0)
+Filename: ./debs/apt.deonrepo.net.blankicons_1.0_iphoneos-arm.deb
+Size: 18560
+MD5sum: 7f3de0d004755c835126fb565fc9b05e
+SHA1: 35e794e8fc8fcbdd14a87bd2a30c13558f485ad5
+SHA256: eee63b922150744f435cd2051dd9e69ce8bd2068d7407ca9a9fcaf996c222fdb
+Section: Tweaks
+Description: 生成透明圖標，可以實現圖標任意擺放。Create Blank Icons.
+Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Deon
+Name: BlankIcons
+
 Package: apt.deonrepo.net.dfu
 Version: 1.0
 Architecture: iphoneos-arm
