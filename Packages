@@ -298,6 +298,22 @@ Description: 為TinyBanners 2添加繁體中文/簡體中文語言體系
 Author: Deon
 Name: TinyBanners 2 繁簡中文包
 
+Package: apt.deonrepo.net.unc0vera1n
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Depends: dpkg, firmware(>=12.3)
+Conflicts: org.coolstar.libhooker
+Filename: ./debs/apt.deonrepo.net.unc0vera1n_1.0_iphoneos-arm.deb
+Size: 2537524
+MD5sum: d9acf5e6ceb5956ec47982a6f8a8ca63
+SHA1: 636d802247ff630f0b09e61472aee0f13dbf6177
+SHA256: cb9379e37f8d6b84de358b0c8d5e792e86bbec41401e33ddc21171f51c3971d3
+Section: System
+Description: 實現checkra1n與unc0ver無縫切換，不需要再安裝Cydia Substrate。Allow switching from unc0ver to checkra1n without having to manually reinstall Cydia Substrate.
+Author: Deon
+Name: Unc0vera1n
+
 Package: apt.deonrepo.net.untetheredkeyboard
 Version: 1.0
 Architecture: iphoneos-arm
