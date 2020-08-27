@@ -305,12 +305,12 @@ Maintainer: Deon
 Depends: dpkg, firmware(>=12.3)
 Conflicts: org.coolstar.libhooker
 Filename: ./debs/apt.deonrepo.net.unc0vera1n_1.0_iphoneos-arm.deb
-Size: 2537524
-MD5sum: d9acf5e6ceb5956ec47982a6f8a8ca63
-SHA1: 636d802247ff630f0b09e61472aee0f13dbf6177
-SHA256: cb9379e37f8d6b84de358b0c8d5e792e86bbec41401e33ddc21171f51c3971d3
+Size: 2537628
+MD5sum: c79d1328aae8805405b5a8acd903cb8f
+SHA1: cd6c810319da9901caeaf0c303ce6913dd87e01e
+SHA256: ef77e4e9f6d073d13e5657775cefecbb047a7c07176647255193efb53f90c3a8
 Section: System
-Description: 實現checkra1n與unc0ver無縫切換，不需要再安裝Cydia Substrate。Allow switching from unc0ver to checkra1n without having to manually reinstall Cydia Substrate.
+Description: 實現checkra1n與unc0ver無縫切換，不需要再安裝Cydia Substrate，注意！Odyssey和Odysseyra1n使用者一定不要安裝！這是給unc0ver和checkra1n使用的。Allow switching from unc0ver to checkra1n without having to manually reinstall Cydia Substrate. DO NOT install if you are Odyssey or Odysseyra1n users.
 Author: Deon
 Name: Unc0vera1n
 
