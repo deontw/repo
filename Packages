@@ -299,16 +299,16 @@ Author: Deon
 Name: TinyBanners 2 繁簡中文包
 
 Package: apt.deonrepo.net.unc0vera1n
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Deon
 Depends: dpkg, firmware(>=12.3)
 Conflicts: org.coolstar.libhooker
-Filename: ./debs/apt.deonrepo.net.unc0vera1n_1.0_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.unc0vera1n_2.0_iphoneos-arm.deb
 Size: 2537628
-MD5sum: c79d1328aae8805405b5a8acd903cb8f
-SHA1: cd6c810319da9901caeaf0c303ce6913dd87e01e
-SHA256: ef77e4e9f6d073d13e5657775cefecbb047a7c07176647255193efb53f90c3a8
+MD5sum: 5096319eb527d8f1f4cd9d2abac8de2c
+SHA1: f8b1a0b7536deee8b772082741caab85af0cd8bf
+SHA256: f21a04f8cc89198b1957ed99e13c3e844cd9f228ee67aef61e823e94bf93d8cc
 Section: System
 Description: 實現checkra1n與unc0ver無縫切換，不需要再安裝Cydia Substrate，注意！Odyssey和Odysseyra1n使用者一定不要安裝！這是給unc0ver和checkra1n使用的。Allow switching from unc0ver to checkra1n without having to manually reinstall Cydia Substrate. DO NOT install if you are Odyssey or Odysseyra1n users.
 Author: Deon
