@@ -76,18 +76,18 @@ Author: Deon
 Name: BetterSettings 繁簡中文包
 
 Package: apt.deonrepo.net.blankicons
-Version: 1.0
+Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Deon
 Installed-Size: 824
-Depends: mobilesubstrate, preferenceloader, firmware (>=9.0)
-Filename: ./debs/apt.deonrepo.net.blankicons_1.0_iphoneos-arm.deb
-Size: 18560
-MD5sum: 7f3de0d004755c835126fb565fc9b05e
-SHA1: 35e794e8fc8fcbdd14a87bd2a30c13558f485ad5
-SHA256: eee63b922150744f435cd2051dd9e69ce8bd2068d7407ca9a9fcaf996c222fdb
+Depends: org.coolstar.libhooker, preferenceloader, firmware (>=9.0)
+Filename: ./debs/apt.deonrepo.net.blankicons_2.0_iphoneos-arm.deb
+Size: 39010
+MD5sum: 91a2cb5597cce5a43d6d8dd6a16de58a
+SHA1: 020121db9970939409e085976dac75682a42e6cc
+SHA256: 4bc33e20fa1f53656c154f2420e6425a39d225c7dc21fd2e0c338e3406dab049
 Section: Tweaks
-Description: 生成透明圖標，可以實現圖標任意擺放。Create Blank Icons.
+Description: 生成透明圖標，可以實現圖標任意擺放，僅支援libhooker。Create Blank Icons. This tweak only supports libhooker.
 Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Deon
 Name: BlankIcons
