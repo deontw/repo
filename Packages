@@ -49,6 +49,23 @@ Description: 新版無視掉簽，基於180的7Days - AntiRevoke修改，適配�
 Author: 180 & Deon
 Name: 7Days - AntiRevoke
 
+Package: apt.deonrepo.net.7days-antirevoke
+Version: 0.0.6~fixbydeon
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 688
+Depends: org.coolstar.libhooker
+Conflicts: netskao.antirevoke
+Filename: ./debs/apt.deonrepo.net.7days-antirevoke_0.0.6~fixbydeon_iphoneos-arm.deb
+Size: 3604
+MD5sum: 209acb8966aa5ec5ae31326cf5996ed0
+SHA1: 9b6bd07a71a6f64716759769b66a40c5e1aff45d
+SHA256: e72fa95d9ceae12f6ffdbac9b2cdaf826cdad3324e8b08333bf34a199d88d2c1
+Section: Tweaks
+Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配新系統。僅支援libhooker。No more revocations anymore. This tweak consults 7Days - AntiRevoke. This tweak is created for libhooker users.
+Author: 180 & Deon
+Name: 7Days - AntiRevoke (iOS12-iOS13)
+
 Package: apt.deonrepo.net.accent.tw
 Version: 1.5
 Architecture: iphoneos-arm
