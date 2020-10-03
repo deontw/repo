@@ -320,21 +320,6 @@ Description: 為shuffle添加繁體中文/簡體中文語言體系
 Author: Deon
 Name: shuffle 繁簡中文包
 
-Package: apt.deonrepo.net.sileocht
-Version: 3.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Conflicts: org.coolstar.sileo (>>1.8.7)
-Filename: ./debs/apt.deonrepo.net.sileocht_3.0_iphoneos-arm.deb
-Size: 5800
-MD5sum: 232243b449d8b7ae3168ea6c423b84b5
-SHA1: 69f645b4b47d220d343a7df834905d5383c53a33
-SHA256: 5b577fb149c5c9639d97186d184d260ce31ce2715f1779cf84688b9799437610
-Section: Localization
-Description: 針對 Sileo 加入繁體中文
-Author: Deon
-Name: Sileo 繁體中文包
-
 Package: apt.deonrepo.net.tinybanners2.tw
 Version: 1.2
 Architecture: iphoneos-arm
