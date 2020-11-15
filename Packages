@@ -183,6 +183,24 @@ Description: 系統省電插件，支援繁體中文，簡體中文和英語。A
 Author: Deon
 Name: March
 
+Package: apt.deonrepo.net.mterminal
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 776
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, ncurses, system-cmds
+Filename: ./debs/apt.deonrepo.net.mterminal_1.0_iphoneos-arm.deb
+Size: 108156
+MD5sum: e2d623cbdeda5d8d4f4738d20b00c2d9
+SHA1: 0e936ec95cd96b2e9bf8bec59b2021e7d8fa6ff7
+SHA256: 0a50ec73a266393c10d131fcdf9aa934486f8aefdeeaced5020a67cd26acb43a
+Section: Utilities
+Priority: standard
+Description: A MobileTerminal fork for Electra
+Author: Deon
+Name: MTerminal for Electra
+
 Package: apt.deonrepo.net.networkfixer
 Version: 1.2
 Architecture: iphoneos-arm
