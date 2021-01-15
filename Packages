@@ -263,6 +263,22 @@ Description: 為PullOver Pro添加繁體中文/簡體中文語言體系
 Author: Deon
 Name: PullOver Pro 繁簡中文包
 
+Package: apt.deonrepo.net.removetweak
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 132
+Depends: firmware (>= 11.0)
+Filename: ./debs/apt.deonrepo.net.removetweak_1.0_iphoneos-arm.deb
+Size: 1080
+MD5sum: 45b27889d14c4c4302698abbc8e5baee
+SHA1: 87f1f96523019bc952f166a5ab277b11661ce029
+SHA256: ab6b2eb7a5a21eeb0470e9d18cd5c58d5e44696bc03ea34aa7cdbfc21e37b81e
+Section: System
+Description: Run removetweak to return to the original jailbreak environment for Odyssey and Odysseyra1n
+Author: Deon
+Name: Tweak Remover
+
 Package: apt.deonrepo.net.respringhelper
 Version: 1.0
 Architecture: iphoneos-arm
