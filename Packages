@@ -279,6 +279,22 @@ Description: Run removetweak to return to the original jailbreak environment for
 Author: Deon
 Name: Tweak Remover
 
+Package: apt.deonrepo.net.removetweak
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 132
+Depends: firmware (>= 11.0)
+Filename: ./debs/apt.deonrepo.net.removetweak_1.1_iphoneos-arm.deb
+Size: 1152
+MD5sum: 1c9b4c08feaad041e8d819ee64e70510
+SHA1: db5afc4a13e3de20e9b3a29f6c8a81db4b252bb2
+SHA256: 8ca19a6fc2dfaab1904b97a189442a7e3fc97236dc8bcf55caa213844cb50993
+Section: System
+Description: Run removetweak to return to the original jailbreak environment for Odyssey and Odysseyra1n
+Author: Deon
+Name: Tweak Remover
+
 Package: apt.deonrepo.net.respringhelper
 Version: 1.0
 Architecture: iphoneos-arm
