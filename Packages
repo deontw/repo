@@ -136,6 +136,22 @@ Description: App to install Diatrus' Cydia fork, APT fork, and Sileo. This allow
 Author: Hayden Seay <me@diatr.us>
 Name: Diatrus Installer
 
+Package: apt.deonrepo.net.getsileo
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 132
+Depends: firmware (>= 11.0)
+Filename: ./debs/apt.deonrepo.net.getsileo_3.0_iphoneos-arm.deb
+Size: 9054210
+MD5sum: 0790f2cdf6c7adf7ce1bc9ebc87f52b9
+SHA1: 1edd75346e46331ff7baf47a4c99b9836cd1d0cd
+SHA256: fc4c05b00af669b599cc64d1aeb733c2baa49103b2fa80422e46d7544fb84c73
+Section: System
+Description: Sileo for unc0ver. Run getsileo to install Sileo. Run reinstallsileo to reinstall Sileo. Run installcydia to install Cydia. Run removecydia to uninstall Cydia
+Author: Deon
+Name: GetSileo
+
 Package: apt.deonrepo.net.lock
 Version: 2.0
 Architecture: iphoneos-arm
