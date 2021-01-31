@@ -249,6 +249,22 @@ Description: 隱藏Dock背景，理論上支援iOS 11～iOS 13所有設備。Hid
 Author: Deon
 Name: NoDock
 
+Package: apt.deonrepo.net.nodock
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/apt.deonrepo.net.nodock_2.0_iphoneos-arm.deb
+Size: 3272
+MD5sum: 7f229c291d94af9fd630a1f303d511b8
+SHA1: f84ab741ad6dea200c4cc5746f62342511fa53bc
+SHA256: 4cad0b325d309353af330833cb44ac99d36136bb95958721bfc17ad856d616ee
+Section: Tweaks
+Description: 隱藏Dock背景，理論上支援iOS 11～iOS 14所有設備。Hide Dock background. Support iOS 11~iOS 14 for all devices.
+Author: Deon
+Name: NoDock
+
 Package: apt.deonrepo.net.odysseyfixer
 Version: 1.0
 Architecture: iphoneos-arm
