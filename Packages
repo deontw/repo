@@ -109,6 +109,22 @@ Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, 
 Author: Deon
 Name: BlankIcons
 
+Package: apt.deonrepo.net.c1iconfixer
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Deon
+Installed-Size: 132
+Depends: firmware (>= 11.0)
+Filename: ./debs/apt.deonrepo.net.c1iconfixer_1.0_iphoneos-arm.deb
+Size: 996
+MD5sum: faa233a4b110d169e84233ce3ca9368a
+SHA1: d1f2dc0b40fec045da1fe475aec25b1a84de91d9
+SHA256: c6d269444ef3d2ddc9622660fbb68e4bd0725faab73ec17736eb61493493bb08
+Section: System
+Description: 修復iOS 14的checkra1n越獄清除圖標緩存以後導致手機上checkra1n圖標消失的問題，每次消失以後重新安裝此插件即可。Fix checkra1n on iOS 14 when using uicache, checkra1n icon disappear. You can reinstall it every time if it disappear.
+Author: Deon
+Name: checkra1n Icon Fixer
+
 Package: apt.deonrepo.net.dfu
 Version: 1.0
 Architecture: iphoneos-arm
