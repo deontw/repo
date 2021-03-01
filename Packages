@@ -475,15 +475,15 @@ Author: Deon
 Name: YouTube Tools 繁簡中文包
 
 Package: com.deon.uncursus
-Version: 3.0.0
+Version: 3.0.1
 Architecture: iphoneos-arm
 Maintainer: Deon
 Depends: mterminal
-Filename: ./debs/com.deon.uncursus_3.0.0_iphoneos-arm.deb
-Size: 3272148
-MD5sum: 15436a471d52bea8491a16af073198da
-SHA1: 664dbdad41bef6b0af80fe871ec6e9b043c31eea
-SHA256: 2f6cb7f8d1a16aff99748e9deca1c117e5f9940afeadeb9a22213a1779fc3f83
+Filename: ./debs/com.deon.uncursus_3.0.1_iphoneos-arm.deb
+Size: 3272144
+MD5sum: a2c0244a60ba127c0119ef187ed5e02a
+SHA1: 8f0343747ded24fa0c0e65f86e514f55459ab524
+SHA256: 1c119c4063589a9d35595c6c34322d15239178338b60823485385131a10fee7a
 Section: Tweak
 Description: uncusus
 Author: Deon
