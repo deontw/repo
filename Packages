@@ -475,17 +475,17 @@ Author: Deon
 Name: YouTube Tools 繁簡中文包
 
 Package: com.deon.uncursus
-Version: 3.0.1
+Version: 3.0.2
 Architecture: iphoneos-arm
 Maintainer: Deon
 Depends: mterminal
-Filename: ./debs/com.deon.uncursus_3.0.1_iphoneos-arm.deb
-Size: 3272144
-MD5sum: a2c0244a60ba127c0119ef187ed5e02a
-SHA1: 8f0343747ded24fa0c0e65f86e514f55459ab524
-SHA256: 1c119c4063589a9d35595c6c34322d15239178338b60823485385131a10fee7a
+Filename: ./debs/com.deon.uncursus_3.0.2_iphoneos-arm.deb
+Size: 3272248
+MD5sum: 816ffcd1b1f31fc2f40b81002edb34e2
+SHA1: ca7d9dd08079eaa70b5d256a1e97fedbfd9eba68
+SHA256: 20fc31d2a619c8f1b5ed5b23e77f719437352bdfc5edbc292a56e437ed991cd5
 Section: Tweak
-Description: uncusus
+Description: Uncursus(Procursus for unc0ver), run installuncursus first. After respring, run installsileo. Both of them need to run as root.
 Author: Deon
-Name: uncursus installer
+Name: Uncursus Installer
 
