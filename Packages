@@ -152,22 +152,6 @@ Description: App to install Diatrus' Cydia fork, APT fork, and Sileo. This allow
 Author: Hayden Seay <me@diatr.us>
 Name: Diatrus Installer
 
-Package: apt.deonrepo.net.getsileo
-Version: 3.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Installed-Size: 132
-Depends: firmware (>= 11.0)
-Filename: ./debs/apt.deonrepo.net.getsileo_3.0_iphoneos-arm.deb
-Size: 9054210
-MD5sum: 0790f2cdf6c7adf7ce1bc9ebc87f52b9
-SHA1: 1edd75346e46331ff7baf47a4c99b9836cd1d0cd
-SHA256: fc4c05b00af669b599cc64d1aeb733c2baa49103b2fa80422e46d7544fb84c73
-Section: System
-Description: Sileo for unc0ver. Run getsileo to install Sileo. Run reinstallsileo to reinstall Sileo. Run installcydia to install Cydia. Run removecydia to uninstall Cydia
-Author: Deon
-Name: GetSileo
-
 Package: apt.deonrepo.net.lock
 Version: 2.0
 Architecture: iphoneos-arm
@@ -214,24 +198,6 @@ Section: System
 Description: 系統省電插件，支援繁體中文，簡體中文和英語。A tweak that can make your device use longer.  Support English , Chinese Traditional, and Chinese Simplified.
 Author: Deon
 Name: March
-
-Package: apt.deonrepo.net.mterminal
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Installed-Size: 776
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: bash, ncurses, system-cmds
-Filename: ./debs/apt.deonrepo.net.mterminal_1.0_iphoneos-arm.deb
-Size: 108156
-MD5sum: e2d623cbdeda5d8d4f4738d20b00c2d9
-SHA1: 0e936ec95cd96b2e9bf8bec59b2021e7d8fa6ff7
-SHA256: 0a50ec73a266393c10d131fcdf9aa934486f8aefdeeaced5020a67cd26acb43a
-Section: Utilities
-Priority: standard
-Description: A MobileTerminal fork for Electra
-Author: Deon
-Name: MTerminal for Electra
 
 Package: apt.deonrepo.net.networkfixer
 Version: 1.2
@@ -280,22 +246,6 @@ Section: Tweaks
 Description: 隱藏Dock背景，理論上支援iOS 11～iOS 14所有設備。Hide Dock background. Support iOS 11~iOS 14 for all devices.
 Author: Deon
 Name: NoDock
-
-Package: apt.deonrepo.net.odysseyfixer
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Depends: mobilesubstrate
-Filename: ./debs/apt.deonrepo.net.odysseyfixer_1.0_iphoneos-arm.deb
-Size: 1212
-MD5sum: ab860888d2f4677edb1a7d05fa7ba43d
-SHA1: e56aeb5fd15f0c91ac9ab3454f88fa02bbcc5a38
-SHA256: 90db3278a9583c4074d17d79fd1dc5762d61ec2c874c359dc62b4d085aad590b
-Section: System
-Description: 修復Odyssey越獄黑屏，用這個可以不用輸入終端，重新越獄只需要關閉Enable Tweaks越獄，安裝這個插件即可，注意，每次重新越獄都要重新安裝一次這個插件。 Fix Odyssey Jailbreak black screen. Close Enable Tweaks and install this tweak so that you do not have to use terminal. You have to reinstall it every time when you rejailbreak.
-Author: Deon
-Name: Odyssey Fixer
-Sponsor: Deon
 
 Package: apt.deonrepo.net.pulloverpro.tw
 Version: 1.1
@@ -415,22 +365,6 @@ Description: 為TinyBanners 2添加繁體中文/簡體中文語言體系
 Author: Deon
 Name: TinyBanners 2 繁簡中文包
 
-Package: apt.deonrepo.net.unc0vera1n
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Depends: dpkg, firmware(>=12.3)
-Conflicts: org.coolstar.libhooker
-Filename: ./debs/apt.deonrepo.net.unc0vera1n_2.0_iphoneos-arm.deb
-Size: 2537628
-MD5sum: 5096319eb527d8f1f4cd9d2abac8de2c
-SHA1: f8b1a0b7536deee8b772082741caab85af0cd8bf
-SHA256: f21a04f8cc89198b1957ed99e13c3e844cd9f228ee67aef61e823e94bf93d8cc
-Section: System
-Description: 實現checkra1n與unc0ver無縫切換，不需要再安裝Cydia Substrate，注意！Odyssey和Odysseyra1n使用者一定不要安裝！這是給unc0ver和checkra1n使用的。Allow switching from unc0ver to checkra1n without having to manually reinstall Cydia Substrate. DO NOT install if you are Odyssey or Odysseyra1n users.
-Author: Deon
-Name: Unc0vera1n
-
 Package: apt.deonrepo.net.untetheredkeyboard
 Version: 1.0
 Architecture: iphoneos-arm
@@ -473,19 +407,4 @@ Section: Localization
 Description: 為YouTube Tools添加繁體中文/簡體中文語言體系
 Author: Deon
 Name: YouTube Tools 繁簡中文包
-
-Package: com.deon.uncursus
-Version: 3.0.2
-Architecture: iphoneos-arm
-Maintainer: Deon
-Depends: mterminal
-Filename: ./debs/com.deon.uncursus_3.0.2_iphoneos-arm.deb
-Size: 3272248
-MD5sum: 816ffcd1b1f31fc2f40b81002edb34e2
-SHA1: ca7d9dd08079eaa70b5d256a1e97fedbfd9eba68
-SHA256: 20fc31d2a619c8f1b5ed5b23e77f719437352bdfc5edbc292a56e437ed991cd5
-Section: Tweak
-Description: Uncursus(Procursus for unc0ver), run installuncursus first. After respring, run installsileo. Both of them need to run as root.
-Author: Deon
-Name: Uncursus Installer
 
