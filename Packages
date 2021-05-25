@@ -16,23 +16,6 @@ Author: 180 & Deon
 Name: 7Days - AntiRevoke
 
 Package: apt.deonrepo.net.7days-antirevoke
-Version: 0.0.4~fixbydeon
-Architecture: iphoneos-arm
-Maintainer: Deon
-Installed-Size: 688
-Depends: org.coolstar.libhooker
-Conflicts: netskao.antirevoke
-Filename: ./debs/apt.deonrepo.net.7days-antirevoke_0.0.4~fixbydeon_iphoneos-arm.deb
-Size: 5354
-MD5sum: 86abdcfc566c79a79703633393efca9e
-SHA1: 80202c529b04ad54a97aef9f5707349e25dd6cec
-SHA256: 575e6e5990ab7d4db3c3c2b5d9dffdfa0a52444e6a7043d6ee01d9a7118f1c97
-Section: Tweaks
-Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配新系統。僅支援libhooker。No more revocations anymore. This tweak consults 7Days - AntiRevoke. This tweak is created for libhooker users.
-Author: 180 & Deon
-Name: 7Days - AntiRevoke
-
-Package: apt.deonrepo.net.7days-antirevoke
 Version: 0.0.7~fixbydeon
 Architecture: iphoneos-arm
 Maintainer: Deon
@@ -92,23 +75,6 @@ Description: 為BetterSettings添加繁體中文/簡體中文語言體系
 Author: Deon
 Name: BetterSettings 繁簡中文包
 
-Package: apt.deonrepo.net.blankicons
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Installed-Size: 824
-Depends: org.coolstar.libhooker, preferenceloader, firmware (>=9.0)
-Filename: ./debs/apt.deonrepo.net.blankicons_2.0_iphoneos-arm.deb
-Size: 39010
-MD5sum: 91a2cb5597cce5a43d6d8dd6a16de58a
-SHA1: 020121db9970939409e085976dac75682a42e6cc
-SHA256: 4bc33e20fa1f53656c154f2420e6425a39d225c7dc21fd2e0c338e3406dab049
-Section: Tweaks
-Description: 生成透明圖標，可以實現圖標任意擺放，僅支援libhooker。Create Blank Icons. This tweak only supports libhooker.
-Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Author: Deon
-Name: BlankIcons
-
 Package: apt.deonrepo.net.c1iconfixer
 Version: 1.0
 Architecture: iphoneos-arm
@@ -152,85 +118,6 @@ Description: App to install Diatrus' Cydia fork, APT fork, and Sileo. This allow
 Author: Hayden Seay <me@diatr.us>
 Name: Diatrus Installer
 
-Package: apt.deonrepo.net.lock
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/apt.deonrepo.net.lock_2.0_iphoneos-arm.deb
-Size: 39756
-MD5sum: 403e9cb0db864242173f42d0b228bb15
-SHA1: b54fe0b40ccd618c68de53fbebc61f34aeefec56
-SHA256: 5ffe0626aae59a68a1f5024bc493f5466650547296d58e0105f54e1ff90f3e1d
-Section: Tweaks
-Description: Lock Application 在主畫面添加一個鎖定螢幕的圖標，點擊一下即可鎖屏。
-Author: Deon
-Name: Lock
-
-Package: apt.deonrepo.net.march
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Deon
-Installed-Size: 824
-Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin
-Filename: ./debs/apt.deonrepo.net.march_1.1_iphoneos-arm.deb
-Size: 217706
-MD5sum: 9b7334ee5721fce66b06a5aab124e337
-SHA1: 39954de68c96c28c64e1790876b4c1c54400aca1
-SHA256: 3055eebf26f5b0087c107e1853871cf113b04a95c34baf81d3ed5e03fb180442
-Section: System
-Description: 系統省電插件，支援繁體中文，簡體中文和英語。A tweak that can make your device use longer.  Support English , Chinese Traditional, and Chinese Simplified.
-Author: Deon
-Name: March
-
-Package: apt.deonrepo.net.march
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Installed-Size: 824
-Depends: org.coolstar.libhooker, ws.hbang.common, net.limneos.libbulletin
-Filename: ./debs/apt.deonrepo.net.march_2.0_iphoneos-arm.deb
-Size: 132936
-MD5sum: bc177027b77939a154aa75cbc620363f
-SHA1: 78ef34a8e3ba747e90360d2942bb0924322c4adb
-SHA256: cda27fddca76fb64da4cae3c4d44542b536bcc4e76452afaf766cc887bf2730e
-Section: System
-Description: 系統省電插件，支援繁體中文，簡體中文和英語。A tweak that can make your device use longer.  Support English , Chinese Traditional, and Chinese Simplified.
-Author: Deon
-Name: March
-
-Package: apt.deonrepo.net.networkfixer
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Deon
-Installed-Size: 132
-Depends: firmware (>= 11.0)
-Filename: ./debs/apt.deonrepo.net.networkfixer_1.2_iphoneos-arm.deb
-Size: 5208
-MD5sum: 300c38b9c49e3b4cd219255af823366e
-SHA1: 68784f26ade176c45daf4891cba4e57ab1b0f5bc
-SHA256: a60575f7b293600389471594ec5f0605e98f3bb914f5fae90a661686f8cc22c6
-Section: System
-Description: 修復中國大陸設備聯網，這個修復了Cydia, Sileo, Zebra, Installer, Saily, iCleaner Pro, ReProvision, Filza, SuperRecorder, CallRecorder的聯網權限，安裝完成即可卸載。Fix network for China device. This tweak fix the network of Cydia, Sileo, Zebra, Installer, Saily, iCleaner Pro, ReProvision, Filza, SuperRecorder, CallRecorder. You can uninstall it after installing because the network has already fixed.
-Author: Deon
-Name: Network Fixer
-
-Package: apt.deonrepo.net.nodock
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/apt.deonrepo.net.nodock_1.0_iphoneos-arm.deb
-Size: 4696
-MD5sum: e727b05788feda053005c114cee979ee
-SHA1: 42f55d2c3a5980937ee0b21bb580e39fbd99161b
-SHA256: 876c39ff11623ff18a5682686165bc41f1e591a5374fc921d018bbf9cc855565
-Section: Tweaks
-Description: 隱藏Dock背景，理論上支援iOS 11～iOS 13所有設備。Hide Dock background. Support iOS 11~iOS 13 for all devices.
-Author: Deon
-Name: NoDock
-
 Package: apt.deonrepo.net.nodock
 Version: 2.0
 Architecture: iphoneos-arm
@@ -262,22 +149,6 @@ Author: Deon
 Name: PullOver Pro 繁簡中文包
 
 Package: apt.deonrepo.net.removetweak
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Installed-Size: 132
-Depends: firmware (>= 11.0)
-Filename: ./debs/apt.deonrepo.net.removetweak_1.0_iphoneos-arm.deb
-Size: 1080
-MD5sum: 45b27889d14c4c4302698abbc8e5baee
-SHA1: 87f1f96523019bc952f166a5ab277b11661ce029
-SHA256: ab6b2eb7a5a21eeb0470e9d18cd5c58d5e44696bc03ea34aa7cdbfc21e37b81e
-Section: System
-Description: Run removetweak to return to the original jailbreak environment for Odyssey and Odysseyra1n
-Author: Deon
-Name: Tweak Remover
-
-Package: apt.deonrepo.net.removetweak
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Deon
@@ -292,22 +163,6 @@ Section: System
 Description: Run removetweak to return to the original jailbreak environment for Odyssey and Odysseyra1n
 Author: Deon
 Name: Tweak Remover
-
-Package: apt.deonrepo.net.respringhelper
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Deon
-Installed-Size: 296
-Depends: mobilesubstrate
-Filename: ./debs/apt.deonrepo.net.respringhelper_1.0_iphoneos-arm.deb
-Size: 8776
-MD5sum: 63ee96bef49656aa1fd5782e70c80356
-SHA1: 68dbc4ecbec336971428fd0227ec30e38180d1d9
-SHA256: 574f9ca67012aa66f2a89e7c99dca039d4e5fcb6ff9733039b2249becc1afcbf
-Section: Tweaks
-Description: 註銷工具，在系統設定裡打開，支援繁體中文，簡體中文，和英語。 A tweak that can Respring easily in the Settings App. Support English, Chinese Traditional, and Chinese Simplified.
-Author: Deon
-Name: Respring Helper
 
 Package: apt.deonrepo.net.sareth.tw
 Version: 1.7
@@ -324,14 +179,14 @@ Author: Deon
 Name: Sareth 繁簡中文包
 
 Package: apt.deonrepo.net.shadow.tw
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.shadow.tw.deb
-Size: 6346
-MD5sum: 1efc28a167790c751652166705f1c865
-SHA1: 8a1871e6f8285e52c85f310aea585b81af86ce36
-SHA256: 657c1c6081c2f4b6ccffd9c6b4dba2916b9f2be4d8cc175905148854a6a5d3f4
+Filename: ./debs/apt.deonrepo.net.shadow.tw_1.2_iphoneos-arm.deb
+Size: 5448
+MD5sum: 6e6948fc448a6710f88353adcc78d627
+SHA1: ecdefb78406a4c15f1b0402dc6cceaedbabeb3ae
+SHA256: 4a9c2f3443d63e1a51b6093346724aea8980a9e3a8b98006663644bf38b4dc93
 Section: Localization
 Description: 為Shadow添加繁體中文/簡體中文語言體系
 Author: Deon
