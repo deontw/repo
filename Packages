@@ -263,3 +263,33 @@ Description: 為YouTube Tools添加繁體中文/簡體中文語言體系
 Author: Deon
 Name: YouTube Tools 繁簡中文包
 
+Package: com.deon.roc
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Deon
+Depends: firmware (>= 11.0), com.deon.rocdepends
+Filename: ./debs/com.deon.roc_1.1_iphoneos-arm.deb
+Size: 956
+MD5sum: 6e79bb25650041d0dbda8a18e64e41c0
+SHA1: cf460c0c1fc2020c14cae15ffe0414222b180b40
+SHA256: d59ea14697b7f4451d0035af89b16b115f96e877b38893eb5bc7d1655491245c
+Section: System
+Description: 修復 iOS 中華民國歷丟失的問題。 Fix iOS ROC Calendar disappear.
+Author: Deon
+Name: Fix ROC Calendar
+
+Package: com.deon.rocdepends
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Deon
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.deon.rocdepends_1.1-2_iphoneos-arm.deb
+Size: 1232
+MD5sum: d2c59983da70689fd309016c9a4cb0f3
+SHA1: 3f2e8e8e81bc3a1d8d0f74ef38949051b542d9e1
+SHA256: 4818ec73c54aedf41b77fdd1674eae053e3dfccce25021d0baa7ed746c4986e6
+Section: System
+Description: Files for ROC Calendar support.
+Author: Deon
+Name: ROC Calendar Dependency
+
