@@ -2,8 +2,14 @@ Origin: Deon's Repo
 Label: Deon
 Suite: stable
 Version: 1.0
-Codename: Deon
 Architectures: iphoneos-arm
 Components: main
+Codename: Deon
 Description: Deon's Repo
 
+Date: Mon, 17 Apr 2023 22:22:41 +0000
+SHA256:
+ daee4d555a3d27f1c6c3d0608a882b3a3e6e2940b5fecb7f96baa4f58339f4e9 10701 Packages
+ 600c0ce0f41756235636cbb6d58bb042d4481cb531e4fa2f44c9310b1dcc20b6 4051 Packages.bz2
+ 6c00eadc756bd9b3f036fa042c4074a6bf8795e39f8d42644ce527c0c2ed5bba 3780 Packages.xz
+ 0c1da5e10071f9de21560d18d77c5a1e13e37cd9453a0d52c0f602f90542bb3c 4109 Packages.zst

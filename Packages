@@ -5,7 +5,7 @@ Maintainer: Deon
 Installed-Size: 688
 Depends: mobilesubstrate
 Conflicts: netskao.antirevoke
-Filename: ./debs/apt.deonrepo.net.7days-antirevoke_0.0.3~fixbydeon_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.7days-antirevoke_0.0.3~fixbydeon_iphoneos-arm.deb
 Size: 214366
 MD5sum: 0248b94300733484a7c319c786a7ea82
 SHA1: c2f4aed43df717c70fb8b1731988aa9240818ef3
@@ -22,7 +22,7 @@ Maintainer: Deon
 Installed-Size: 104
 Depends: firmware (>= 12.0), org.coolstar.libhooker
 Conflicts: netskao.antirevoke, netskao.antiprofilesrevoke
-Filename: ./debs/apt.deonrepo.net.7days-antirevoke_0.0.7~fixbydeon_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.7days-antirevoke_0.0.7~fixbydeon_iphoneos-arm.deb
 Size: 5200
 MD5sum: 05e3f20ab0ba3378cc09b3a2b3a11bd5
 SHA1: d7c04ff20c6b949677897084cc1c2d82ae838e3c
@@ -37,7 +37,7 @@ Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: Deon
 Depends: mobilesubstrate
-Filename: ./debs/apt.deonrepo.net.accent.tw_1.5_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.accent.tw_1.5_iphoneos-arm.deb
 Size: 1722
 MD5sum: d1fd39421e496975a9ed2004ba597d62
 SHA1: dd61f3a198f65d6a6a58b649466961d9922818e6
@@ -51,7 +51,7 @@ Package: apt.deonrepo.net.arc.tw
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.arc.tw.deb
+Filename: debs/apt.deonrepo.net.arc.tw.deb
 Size: 1604
 MD5sum: 23f7c475400ca1873870d26865b40a6f
 SHA1: 9c8070b570c4051ceec887f291246afeda173dc7
@@ -65,7 +65,7 @@ Package: apt.deonrepo.net.bettersettings.tw
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.bettersettings.tw_1.3_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.bettersettings.tw_1.3_iphoneos-arm.deb
 Size: 2652
 MD5sum: 0d0bd07f6c1a6d981f4aa2c7d1b4b460
 SHA1: 986aa87923706319bbef2701a6a4926b9d565082
@@ -81,7 +81,7 @@ Architecture: iphoneos-arm
 Maintainer: Deon
 Installed-Size: 132
 Depends: firmware (>= 11.0)
-Filename: ./debs/apt.deonrepo.net.c1iconfixer_1.0_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.c1iconfixer_1.0_iphoneos-arm.deb
 Size: 996
 MD5sum: faa233a4b110d169e84233ce3ca9368a
 SHA1: d1f2dc0b40fec045da1fe475aec25b1a84de91d9
@@ -94,7 +94,7 @@ Name: checkra1n Icon Fixer
 Package: apt.deonrepo.net.dfu
 Version: 1.0
 Architecture: iphoneos-arm
-Filename: ./debs/apt.deonrepo.net.dfu_1.0_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.dfu_1.0_iphoneos-arm.deb
 Size: 52790
 MD5sum: ded90e342c32f075ff4fb1c24948b468
 SHA1: 6ac6a85ff7186951fd34bfa673f8254d951fe86d
@@ -109,7 +109,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Hayden Seay <me@diatr.us>
 Depends: zsh, firmware (>=12.2) | org.swift.libswift (>=5.0), mobilesubstrate
-Filename: ./debs/apt.deonrepo.net.diatrusinstaller_1.1_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.diatrusinstaller_1.1_iphoneos-arm.deb
 Size: 7802510
 MD5sum: 012613acca883e515a7a8ed1511c7b96
 SHA1: 633e4b867ffdd7641a51d0dcf6118dd1291b8466
@@ -124,7 +124,7 @@ Architecture: iphoneos-arm
 Maintainer: Deon
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/apt.deonrepo.net.nodock_2.0_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.nodock_2.0_iphoneos-arm.deb
 Size: 3272
 MD5sum: 7f229c291d94af9fd630a1f303d511b8
 SHA1: f84ab741ad6dea200c4cc5746f62342511fa53bc
@@ -138,7 +138,7 @@ Package: apt.deonrepo.net.pulloverpro.tw
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.pulloverpro.tw_1.1_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.pulloverpro.tw_1.1_iphoneos-arm.deb
 Size: 2184
 MD5sum: e76c8ac8355c648998681e5eed7f8753
 SHA1: 8d8cd37f3b18cac913a21fd4a556ffb258e0a545
@@ -154,7 +154,7 @@ Architecture: iphoneos-arm
 Maintainer: Deon
 Installed-Size: 132
 Depends: firmware (>= 11.0)
-Filename: ./debs/apt.deonrepo.net.removetweak_1.1_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.removetweak_1.1_iphoneos-arm.deb
 Size: 1152
 MD5sum: 1c9b4c08feaad041e8d819ee64e70510
 SHA1: db5afc4a13e3de20e9b3a29f6c8a81db4b252bb2
@@ -168,7 +168,7 @@ Package: apt.deonrepo.net.sareth.tw
 Version: 1.7
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.sareth.tw_1.7_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.sareth.tw_1.7_iphoneos-arm.deb
 Size: 2906
 MD5sum: 25c6cfacbb12463ae8f04995849849a3
 SHA1: d60e6982db29d96961d864fcd02431b1200685cd
@@ -182,7 +182,7 @@ Package: apt.deonrepo.net.shadow.tw
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.shadow.tw_1.2_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.shadow.tw_1.2_iphoneos-arm.deb
 Size: 5448
 MD5sum: 6e6948fc448a6710f88353adcc78d627
 SHA1: ecdefb78406a4c15f1b0402dc6cceaedbabeb3ae
@@ -196,7 +196,7 @@ Package: apt.deonrepo.net.shuffle.tw
 Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.shuffle.tw_1.4_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.shuffle.tw_1.4_iphoneos-arm.deb
 Size: 3612
 MD5sum: 7f53dc5d4b9d66641cbc0fdf91819148
 SHA1: cb26ef0dd10455f7c72dd575ee17355fe2693a49
@@ -210,7 +210,7 @@ Package: apt.deonrepo.net.tinybanners2.tw
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.tinybanners2.tw_1.2_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.tinybanners2.tw_1.2_iphoneos-arm.deb
 Size: 3814
 MD5sum: 2792ce1b02737dee671bf0153e04cbf8
 SHA1: de6a85aa54698cdc65ebed9fd78b995e79b153e4
@@ -225,7 +225,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Deon
 Depends: mobilesubstrate
-Filename: ./debs/apt.deonrepo.net.untetheredkeyboard_1.0_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.untetheredkeyboard_1.0_iphoneos-arm.deb
 Size: 4438
 MD5sum: 84a8b7a40dbb0b222390d4b63bb9424c
 SHA1: f301fcc0ec985d71d5eee266d4a9f23ab55dbc14
@@ -239,7 +239,7 @@ Package: apt.deonrepo.net.xeninfo.tw
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.xeninfo.tw_1.1_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.xeninfo.tw_1.1_iphoneos-arm.deb
 Size: 3562
 MD5sum: bcc8fca8320fb948f17178f70bcafe9a
 SHA1: cf242379104782f5ac38f6705f108241cb4b3495
@@ -253,7 +253,7 @@ Package: apt.deonrepo.net.youtubetools.tw
 Version: 4.2
 Architecture: iphoneos-arm
 Maintainer: Deon
-Filename: ./debs/apt.deonrepo.net.youtubetools.tw_4.2_iphoneos-arm.deb
+Filename: debs/apt.deonrepo.net.youtubetools.tw_4.2_iphoneos-arm.deb
 Size: 2338
 MD5sum: 3f7bc30b798f71c53a2008c1583f1447
 SHA1: d3c9a2fe00fa8566bbd8ac22d897e38a26d65093
@@ -268,7 +268,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: Deon
 Depends: firmware (>= 11.0)
-Filename: ./debs/com.deon.roc_2.0_iphoneos-arm.deb
+Filename: debs/com.deon.roc_2.0_iphoneos-arm.deb
 Size: 1532
 MD5sum: ce5b1e797e1a31a1cb37709e8affdb29
 SHA1: d402c58f2201a44221a5924faf30061a63fc451f
