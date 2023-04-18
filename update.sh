@@ -3,13 +3,13 @@
 rm Packages Packages.bz2 Packages.xz Packages.zst Release Release.gpg
 
 echo "[Repository] Generating Packages..."
-./apt-ftparchive packages ./debs > Packages
+apt-ftparchive packages ./debs > Packages
 zstd -q -c19 Packages > Packages.zst
 xz -c9 Packages > Packages.xz
 bzip2 -c9 Packages > Packages.bz2
 
 echo "[Repository] Generating Release..."
-./apt-ftparchive \
+apt-ftparchive \
 		-o APT::FTPArchive::Release::Origin="Deon's Repo" \
 		-o APT::FTPArchive::Release::Label="Deon" \
 		-o APT::FTPArchive::Release::Suite="stable" \
