@@ -1,39 +1,3 @@
-Package: apt.deonrepo.net.7days-antirevoke
-Architecture: iphoneos-arm
-Version: 0.0.3~fixbydeon
-Section: Tweaks
-Maintainer: Deon
-Installed-Size: 688
-Depends: mobilesubstrate
-Conflicts: netskao.antirevoke
-Filename: ./debs/apt.deonrepo.net.7days-antirevoke_0.0.3~fixbydeon_iphoneos-arm.deb
-Size: 214366
-MD5sum: 0248b94300733484a7c319c786a7ea82
-SHA1: c2f4aed43df717c70fb8b1731988aa9240818ef3
-SHA256: 6a906c1d1587def53770ecf8ad972cd72421e9886d396ed5cacde783694cb669
-SHA512: 4a862c417c9fd5cbbce1f335cfc54c3348fce604da3e226c6b3c4b465a3f8a84dc1bbad12b51274c54c2e2ce873212da7ccf61a5d88d3b497a792d2499f5ccc3
-Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配新系統。No more revocations anymore. This tweak consults 7Days - AntiRevoke
-Name: 7Days - AntiRevoke
-Author: 180 & Deon
-
-Package: apt.deonrepo.net.7days-antirevoke
-Architecture: iphoneos-arm
-Version: 0.0.7~fixbydeon
-Section: Tweaks
-Maintainer: Deon
-Installed-Size: 104
-Depends: firmware (>= 12.0), org.coolstar.libhooker
-Conflicts: netskao.antirevoke, netskao.antiprofilesrevoke
-Filename: ./debs/apt.deonrepo.net.7days-antirevoke_0.0.7~fixbydeon_iphoneos-arm.deb
-Size: 5200
-MD5sum: 05e3f20ab0ba3378cc09b3a2b3a11bd5
-SHA1: d7c04ff20c6b949677897084cc1c2d82ae838e3c
-SHA256: 22ca3cfe550ba31de4ad8f0f2aa8356ae302725f2bbf171652f7bf326af0831e
-SHA512: 54fd32d6a6c494b23e122ad9569d0895d203ec44afa6cfff8eb51ee9a6c1f45ff47b2fe1c46d91c43d47b0941b91078b13deebfe17a9406949a16bf1b83c2809
-Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配新系統。僅支援libhooker (iOS12-iOS14)。No more revocations anymore. This tweak consults 7Days - AntiRevoke. This tweak is created for libhooker users (iOS12-iOS14).
-Name: 7Days - AntiRevoke
-Author: 180 & Deon
-
 Package: apt.deonrepo.net.accent.tw
 Architecture: iphoneos-arm
 Version: 1.5
@@ -295,5 +259,45 @@ SHA256: 7fb7ad17639a20bcc6407e7859be53ace105d847eef75484ae6745b9855b3170
 SHA512: 6658cd45f9c752e7c159391b1356ae83bb65e89171186147170bd64ee555f4eccafc0f79caa7c26893b0879c39ccf492cf618dd38e88855fda8270c1c9ebcadc
 Description: 修復 iOS 中華民國歷丟失的問題，安裝完成後即可去系統設定中華民國歷（ROC CALENDAR）。  Fix iOS ROC Calendar disappear. After installation, you could go to settings to set ROC Calendar.
 Name: Fix ROC Calendar
+Author: Deon
+
+Package: com.deontw.7days-antirevoke
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Deon
+Installed-Size: 152
+Provides: apt.deonrepo.net.7days-antirevoke
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: apt.deonrepo.net.7days-antirevoke
+Replaces: apt.deonrepo.net.7days-antirevoke
+Filename: ./debs/com.deontw.7days-antirevoke_1.0_iphoneos-arm.deb
+Size: 5014
+MD5sum: d45ce6b9c3a7f9e1b80abbf16b705d9f
+SHA1: 660388ec839ba4e406d53cac1bf2b2d6dff204dd
+SHA256: fce726bfa2b3a113991a4a17a30f2444c27fbb7b95be51801837a41843562092
+SHA512: b383aa8e34403760cb502d13cd96388388bfc3e5069f3791941514073ca9f105dfefdf29b737471357d4263040407143d70c7d7bd0198b71290c6dd7d53b4ab1
+Description: No more revocations for enterprise certificate. 無視企業證書掉簽。
+Name: 7Days-AntiRevoke
+Author: Deon
+
+Package: com.deontw.7days-antirevoke
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Deon
+Installed-Size: 152
+Provides: apt.deonrepo.net.7days-antirevoke
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: apt.deonrepo.net.7days-antirevoke
+Replaces: apt.deonrepo.net.7days-antirevoke
+Filename: ./debs/com.deontw.7days-antirevoke_1.0_iphoneos-arm64.deb
+Size: 5050
+MD5sum: 94283d7420502872405750426bfb0b04
+SHA1: 3808383fcc605421e2ac8d7aef4a2774281c39c8
+SHA256: e87c80a25b728534fd76c80c259cef4ab4754c1f295fcb16686e186d7e9da7f3
+SHA512: 5e66df62a2cbce3fbd89b09531152d3b34e75aa59385c549f7562f2c121499580f8ed0dcd60225c56c55c28d247ee3551196de279b65c8226242c642ba8771d8
+Description: No more revocations for enterprise certificate. 無視企業證書掉簽。
+Name: 7Days-AntiRevoke
 Author: Deon
 
