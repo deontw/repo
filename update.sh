@@ -8,4 +8,4 @@ cp Packages.tmp Packages
 zstd Packages
 mv Packages.tmp Packages
 php updaterelease.php
-gpg -abs -u D8A11D878A1E7168229B72871F4BE83D3C22E8E4 -o Release.gpg Release
+gpg -abs -u C3713CFDF578925A5FC9769E5F8EA57C5DDD6BF9 -o Release.gpg Release
