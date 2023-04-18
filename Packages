@@ -1,280 +1,299 @@
 Package: apt.deonrepo.net.7days-antirevoke
-Version: 0.0.3~fixbydeon
 Architecture: iphoneos-arm
+Version: 0.0.3~fixbydeon
+Section: Tweaks
 Maintainer: Deon
 Installed-Size: 688
 Depends: mobilesubstrate
 Conflicts: netskao.antirevoke
-Filename: debs/apt.deonrepo.net.7days-antirevoke_0.0.3~fixbydeon_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.7days-antirevoke_0.0.3~fixbydeon_iphoneos-arm.deb
 Size: 214366
 MD5sum: 0248b94300733484a7c319c786a7ea82
 SHA1: c2f4aed43df717c70fb8b1731988aa9240818ef3
 SHA256: 6a906c1d1587def53770ecf8ad972cd72421e9886d396ed5cacde783694cb669
-Section: Tweaks
+SHA512: 4a862c417c9fd5cbbce1f335cfc54c3348fce604da3e226c6b3c4b465a3f8a84dc1bbad12b51274c54c2e2ce873212da7ccf61a5d88d3b497a792d2499f5ccc3
 Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配新系統。No more revocations anymore. This tweak consults 7Days - AntiRevoke
-Author: 180 & Deon
 Name: 7Days - AntiRevoke
+Author: 180 & Deon
 
 Package: apt.deonrepo.net.7days-antirevoke
-Version: 0.0.7~fixbydeon
 Architecture: iphoneos-arm
+Version: 0.0.7~fixbydeon
+Section: Tweaks
 Maintainer: Deon
 Installed-Size: 104
 Depends: firmware (>= 12.0), org.coolstar.libhooker
 Conflicts: netskao.antirevoke, netskao.antiprofilesrevoke
-Filename: debs/apt.deonrepo.net.7days-antirevoke_0.0.7~fixbydeon_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.7days-antirevoke_0.0.7~fixbydeon_iphoneos-arm.deb
 Size: 5200
 MD5sum: 05e3f20ab0ba3378cc09b3a2b3a11bd5
 SHA1: d7c04ff20c6b949677897084cc1c2d82ae838e3c
 SHA256: 22ca3cfe550ba31de4ad8f0f2aa8356ae302725f2bbf171652f7bf326af0831e
-Section: Tweaks
+SHA512: 54fd32d6a6c494b23e122ad9569d0895d203ec44afa6cfff8eb51ee9a6c1f45ff47b2fe1c46d91c43d47b0941b91078b13deebfe17a9406949a16bf1b83c2809
 Description: 新版無視掉簽，基於180的 7Days - AntiRevoke修改，適配新系統。僅支援libhooker (iOS12-iOS14)。No more revocations anymore. This tweak consults 7Days - AntiRevoke. This tweak is created for libhooker users (iOS12-iOS14).
-Author: 180 & Deon
 Name: 7Days - AntiRevoke
+Author: 180 & Deon
 
 Package: apt.deonrepo.net.accent.tw
-Version: 1.5
 Architecture: iphoneos-arm
+Version: 1.5
+Section: Localization
 Maintainer: Deon
 Depends: mobilesubstrate
-Filename: debs/apt.deonrepo.net.accent.tw_1.5_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.accent.tw_1.5_iphoneos-arm.deb
 Size: 1722
 MD5sum: d1fd39421e496975a9ed2004ba597d62
 SHA1: dd61f3a198f65d6a6a58b649466961d9922818e6
 SHA256: 6ae2c78b956171c5e28cca226095b58aa153690e473390eb7d3c76a4bf928f61
-Section: Localization
+SHA512: 9e1296d7b3f74e858f09dcab03bde1380d2dbe8fb521d75fb62deae3248c4101a297126d15f2da3b7b11945665dd2ede287dae528678036f434bc6ca9ac19dcf
 Description: 為Accent添加繁體中文/簡體中文語言體系
-Author: Deon
 Name: Accent 繁簡中文包
+Author: Deon
 
 Package: apt.deonrepo.net.arc.tw
-Version: 1.2
 Architecture: iphoneos-arm
+Version: 1.2
+Section: Localization
 Maintainer: Deon
-Filename: debs/apt.deonrepo.net.arc.tw.deb
+Filename: ./debs/apt.deonrepo.net.arc.tw.deb
 Size: 1604
 MD5sum: 23f7c475400ca1873870d26865b40a6f
 SHA1: 9c8070b570c4051ceec887f291246afeda173dc7
 SHA256: 730344d5e8e2ff4b9b9b79270a7cb1d6fe86ffe281ccd4575cbe019416bfad9e
-Section: Localization
+SHA512: bdc09174527c563ee1ab7006db1c042b062812df9f4f0e59796eee64048355216fae9c3d7ad3a8f5801ac59cd16b3ca6b4404635cf1f028adeb2ff3ecd79b22c
 Description: 為Arc添加繁體中文/簡體中文語言體系
-Author: Deon
 Name: Arc 繁簡中文包
+Author: Deon
 
 Package: apt.deonrepo.net.bettersettings.tw
-Version: 1.3
 Architecture: iphoneos-arm
+Version: 1.3
+Section: Localization
 Maintainer: Deon
-Filename: debs/apt.deonrepo.net.bettersettings.tw_1.3_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.bettersettings.tw_1.3_iphoneos-arm.deb
 Size: 2652
 MD5sum: 0d0bd07f6c1a6d981f4aa2c7d1b4b460
 SHA1: 986aa87923706319bbef2701a6a4926b9d565082
 SHA256: abe1da5d9d4595e99e6b59919a56442724f091d1fc2fd7136f0bfb4f9372cf1b
-Section: Localization
+SHA512: 23ea6ba52db5171598fe6a332f6c4edeba34f60192316e8106405f2b738a89c6c9f150d0cd955ae762cc715bb8264fba72a3ed71ec456392f7ec1cdb67e9c674
 Description: 為BetterSettings添加繁體中文/簡體中文語言體系
-Author: Deon
 Name: BetterSettings 繁簡中文包
+Author: Deon
 
 Package: apt.deonrepo.net.c1iconfixer
-Version: 1.0
 Architecture: iphoneos-arm
+Version: 1.0
+Section: System
 Maintainer: Deon
 Installed-Size: 132
 Depends: firmware (>= 11.0)
-Filename: debs/apt.deonrepo.net.c1iconfixer_1.0_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.c1iconfixer_1.0_iphoneos-arm.deb
 Size: 996
 MD5sum: faa233a4b110d169e84233ce3ca9368a
 SHA1: d1f2dc0b40fec045da1fe475aec25b1a84de91d9
 SHA256: c6d269444ef3d2ddc9622660fbb68e4bd0725faab73ec17736eb61493493bb08
-Section: System
+SHA512: b53f9fc3d2ee8bb4afc4e3773bdc5d18b78bf8dd5af74ac720d751a38643251587affd219bf11ea9ffd2e0e9e8bc5241547a14c94a492894c66411b09a4e8965
 Description: 修復iOS 14的checkra1n越獄清除圖標緩存以後導致手機上checkra1n圖標消失的問題，每次消失以後重新安裝此插件即可。Fix checkra1n on iOS 14 when using uicache, checkra1n icon disappear. You can reinstall it every time if it disappear.
-Author: Deon
 Name: checkra1n Icon Fixer
+Author: Deon
 
 Package: apt.deonrepo.net.dfu
-Version: 1.0
 Architecture: iphoneos-arm
-Filename: debs/apt.deonrepo.net.dfu_1.0_iphoneos-arm.deb
+Version: 1.0
+Section: System
+Filename: ./debs/apt.deonrepo.net.dfu_1.0_iphoneos-arm.deb
 Size: 52790
 MD5sum: ded90e342c32f075ff4fb1c24948b468
 SHA1: 6ac6a85ff7186951fd34bfa673f8254d951fe86d
 SHA256: b76630fcec8ccc034a82e3246ea35843ce66b99056809b248961b80450f7f603
-Section: System
+SHA512: f4a6c7872c6db49543601e204eca9955b0549fb54eae491869d040c39397aa8eee18cf4911ab1cb6ddbf7814ed513677b4a586b8692168ca787bdb9b503acf3b
 Description: 僅限iPhone 4s與iPad 2安裝降級使用！！！其他的千萬不要安裝！！！出現問題後果自負
-Author: 红V
 Name: 進入降級DFU模式
+Author: 红V
 
 Package: apt.deonrepo.net.diatrusinstaller
-Version: 1.1
 Architecture: iphoneos-arm
+Version: 1.1
 Maintainer: Hayden Seay <me@diatr.us>
 Depends: zsh, firmware (>=12.2) | org.swift.libswift (>=5.0), mobilesubstrate
-Filename: debs/apt.deonrepo.net.diatrusinstaller_1.1_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.diatrusinstaller_1.1_iphoneos-arm.deb
 Size: 7802510
 MD5sum: 012613acca883e515a7a8ed1511c7b96
 SHA1: 633e4b867ffdd7641a51d0dcf6118dd1291b8466
 SHA256: f7b907917db88cac4ba7f7b89c92032d54d02ec458764fdcd5f1f1c246fdd9c3
+SHA512: c5793e56eb01b51a40f1228cb997928e8076b75c830179d585916ae82c58547f76ed66e798d895c447052b05052279a93a437dd422db6d4a799e5a6ff612fd95
 Description: App to install Diatrus' Cydia fork, APT fork, and Sileo. This allows you to uninstall Cydia, use it alongside Sileo, or use another package manager entirely and remove both Cydia and Sileo. Jailbreak your jailbreak.現在已經被GetSileo代替，讓越獄設備同時有兩個越獄商店，安裝以後用root權限輸入如下命令run dpkg -i /Applications/DiatrusInstaller.app/debs/*最後清除緩存註銷，不懂的盡量不要安裝
-Author: Hayden Seay <me@diatr.us>
 Name: Diatrus Installer
+Author: Hayden Seay <me@diatr.us>
 
 Package: apt.deonrepo.net.nodock
-Version: 2.0
 Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
 Maintainer: Deon
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: debs/apt.deonrepo.net.nodock_2.0_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.nodock_2.0_iphoneos-arm.deb
 Size: 3272
 MD5sum: 7f229c291d94af9fd630a1f303d511b8
 SHA1: f84ab741ad6dea200c4cc5746f62342511fa53bc
 SHA256: 4cad0b325d309353af330833cb44ac99d36136bb95958721bfc17ad856d616ee
-Section: Tweaks
+SHA512: 7588e16321ba9b59af094ff7707a66f0e0fa4743aca56fd598cd580536043300e8171a46da099f1133a0e269aed826eeb5e154f680247095145f08d86cff8899
 Description: 隱藏Dock背景，理論上支援iOS 11～iOS 14所有設備。Hide Dock background. Support iOS 11~iOS 14 for all devices.
-Author: Deon
 Name: NoDock
+Author: Deon
 
 Package: apt.deonrepo.net.pulloverpro.tw
-Version: 1.1
 Architecture: iphoneos-arm
+Version: 1.1
+Section: Localization
 Maintainer: Deon
-Filename: debs/apt.deonrepo.net.pulloverpro.tw_1.1_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.pulloverpro.tw_1.1_iphoneos-arm.deb
 Size: 2184
 MD5sum: e76c8ac8355c648998681e5eed7f8753
 SHA1: 8d8cd37f3b18cac913a21fd4a556ffb258e0a545
 SHA256: 648ffc566c8a6cc06d9261fae6d1787e02cf9d878e4785a993e9bf7c444fc8c9
-Section: Localization
+SHA512: 96ae326bd9ff9a7c6cf48d129cf06af0ae80ca8a932b8baa17d7b6094205f3fe90f3b887d82dc588b59e81e39b56fd706f99c0c44b01e4cc0dd41dda7326c966
 Description: 為PullOver Pro添加繁體中文/簡體中文語言體系
-Author: Deon
 Name: PullOver Pro 繁簡中文包
+Author: Deon
 
 Package: apt.deonrepo.net.removetweak
-Version: 1.1
 Architecture: iphoneos-arm
+Version: 1.1
+Section: System
 Maintainer: Deon
 Installed-Size: 132
 Depends: firmware (>= 11.0)
-Filename: debs/apt.deonrepo.net.removetweak_1.1_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.removetweak_1.1_iphoneos-arm.deb
 Size: 1152
 MD5sum: 1c9b4c08feaad041e8d819ee64e70510
 SHA1: db5afc4a13e3de20e9b3a29f6c8a81db4b252bb2
 SHA256: 8ca19a6fc2dfaab1904b97a189442a7e3fc97236dc8bcf55caa213844cb50993
-Section: System
+SHA512: 23af339218a27af6c28cfacba255273bc910d21b52e1195c2346ac48a5bef0f15d8dc3abdad3f4af01178ed36cb1b2f5f796255ea1a3026d177af42f91ebbdab
 Description: Run removetweak to return to the original jailbreak environment for Odyssey and Odysseyra1n
-Author: Deon
 Name: Tweak Remover
+Author: Deon
 
 Package: apt.deonrepo.net.sareth.tw
-Version: 1.7
 Architecture: iphoneos-arm
+Version: 1.7
+Section: Localization
 Maintainer: Deon
-Filename: debs/apt.deonrepo.net.sareth.tw_1.7_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.sareth.tw_1.7_iphoneos-arm.deb
 Size: 2906
 MD5sum: 25c6cfacbb12463ae8f04995849849a3
 SHA1: d60e6982db29d96961d864fcd02431b1200685cd
 SHA256: b3e9ba232575ea111ce63a8ff6cec1a704c83029007b36c684d28d6d7413b8fa
-Section: Localization
+SHA512: 01e9903ff7445b64d897555dd6d68c4eaa55b0d5bb503b899fdfee7edacbaa10bce45c1eb21d24dfa0d3653a61250f944a74b0433ad119560bd8997d41545351
 Description: 為Sareth添加繁體中文/簡體中文語言體系
-Author: Deon
 Name: Sareth 繁簡中文包
+Author: Deon
 
 Package: apt.deonrepo.net.shadow.tw
-Version: 1.2
 Architecture: iphoneos-arm
+Version: 1.2
+Section: Localization
 Maintainer: Deon
-Filename: debs/apt.deonrepo.net.shadow.tw_1.2_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.shadow.tw_1.2_iphoneos-arm.deb
 Size: 5448
 MD5sum: 6e6948fc448a6710f88353adcc78d627
 SHA1: ecdefb78406a4c15f1b0402dc6cceaedbabeb3ae
 SHA256: 4a9c2f3443d63e1a51b6093346724aea8980a9e3a8b98006663644bf38b4dc93
-Section: Localization
+SHA512: 6616287e8830a9236d3bf158e17e35be6c2959fed6f1e58edf888be5b83fb66bfda52461b81257e07771bf6cb42b7c9e5932c62298c8d7904a34ccfd34301425
 Description: 為Shadow添加繁體中文/簡體中文語言體系
-Author: Deon
 Name: Shadow 繁簡中文包
+Author: Deon
 
 Package: apt.deonrepo.net.shuffle.tw
-Version: 1.4
 Architecture: iphoneos-arm
+Version: 1.4
+Section: Localization
 Maintainer: Deon
-Filename: debs/apt.deonrepo.net.shuffle.tw_1.4_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.shuffle.tw_1.4_iphoneos-arm.deb
 Size: 3612
 MD5sum: 7f53dc5d4b9d66641cbc0fdf91819148
 SHA1: cb26ef0dd10455f7c72dd575ee17355fe2693a49
 SHA256: 1ced8299fc4d51c9f46935a0bad0f1cc6c3bd7d9dd26b8442872f04e1f8617f0
-Section: Localization
+SHA512: 46d5fdeb096ce052aecee31e2432cc5d717a43933edc00150c4035a6d9a157b5afbc8737e6da37d20747b58cd47f1d3ae460c94bfa7a2c4958569630fa9df272
 Description: 為shuffle添加繁體中文/簡體中文語言體系
-Author: Deon
 Name: shuffle 繁簡中文包
+Author: Deon
 
 Package: apt.deonrepo.net.tinybanners2.tw
-Version: 1.2
 Architecture: iphoneos-arm
+Version: 1.2
+Section: Localization
 Maintainer: Deon
-Filename: debs/apt.deonrepo.net.tinybanners2.tw_1.2_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.tinybanners2.tw_1.2_iphoneos-arm.deb
 Size: 3814
 MD5sum: 2792ce1b02737dee671bf0153e04cbf8
 SHA1: de6a85aa54698cdc65ebed9fd78b995e79b153e4
 SHA256: 002a63961c4ef71c3feebf7a047eb1baafc92eb01f2314b6da517ebb23b501a0
-Section: Localization
+SHA512: 3e941a2bce1f7e204f349ecba7934aef0ebfc5cdc5a14324feaaa526ff7059e99d2bddfbd492384ba238ab1ae2e432b1d20aa0b09fb8e06eab3a2522050c5043
 Description: 為TinyBanners 2添加繁體中文/簡體中文語言體系
-Author: Deon
 Name: TinyBanners 2 繁簡中文包
+Author: Deon
 
 Package: apt.deonrepo.net.untetheredkeyboard
-Version: 1.0
 Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
 Maintainer: Deon
 Depends: mobilesubstrate
-Filename: debs/apt.deonrepo.net.untetheredkeyboard_1.0_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.untetheredkeyboard_1.0_iphoneos-arm.deb
 Size: 4438
 MD5sum: 84a8b7a40dbb0b222390d4b63bb9424c
 SHA1: f301fcc0ec985d71d5eee266d4a9f23ab55dbc14
 SHA256: dfdf9112095b637d2fe75f732ab5e9966354c3baee89120ba40ba6f0b8963c3d
-Section: Tweaks
+SHA512: cabea232f41b3113e9fe3159bc2a2f7a32055d71e372cd7f8b8966f53a2f377258b2e442db5f6fdc549c7cd6c8cbd344feac3366b1e5583455eca9fe5cccb111
 Description: 允許在輸入密碼時使用第三方鍵盤，沒有圖標，安裝後即可生效。Allow third-party keyboards to enter your password. This tweak do NOT have any icons or labels. It will work automatically after the installation.
-Author: Deon
 Name: Untethered Keyboard
+Author: Deon
 
 Package: apt.deonrepo.net.xeninfo.tw
-Version: 1.1
 Architecture: iphoneos-arm
+Version: 1.1
+Section: Localization
 Maintainer: Deon
-Filename: debs/apt.deonrepo.net.xeninfo.tw_1.1_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.xeninfo.tw_1.1_iphoneos-arm.deb
 Size: 3562
 MD5sum: bcc8fca8320fb948f17178f70bcafe9a
 SHA1: cf242379104782f5ac38f6705f108241cb4b3495
 SHA256: 0f3f4551eef0fc7b0373359bd7d6a89d831ab6679c0b02ff562561cb2b6655b6
-Section: Localization
+SHA512: 43406109ef85a39a0e57e3d661ee7fd5839db8fe73643a905085b7ed90f8aabebdf1250172ad26ec74dd0933b17eaa7799ff6b97997a32f1c76afc2d8a5d6bdc
 Description: 為XenInfo添加繁體中文/簡體中文語言體系
-Author: Deon
 Name: XenInfo 繁簡中文包
+Author: Deon
 
 Package: apt.deonrepo.net.youtubetools.tw
-Version: 4.2
 Architecture: iphoneos-arm
+Version: 4.2
+Section: Localization
 Maintainer: Deon
-Filename: debs/apt.deonrepo.net.youtubetools.tw_4.2_iphoneos-arm.deb
+Filename: ./debs/apt.deonrepo.net.youtubetools.tw_4.2_iphoneos-arm.deb
 Size: 2338
 MD5sum: 3f7bc30b798f71c53a2008c1583f1447
 SHA1: d3c9a2fe00fa8566bbd8ac22d897e38a26d65093
 SHA256: dd492f0bfbd2e9c364abc5e50650f3c3f6546e87cc15ab7444439ded73a3ea4d
-Section: Localization
+SHA512: 5488a12290d63fb59f81b4389f9aa07baa717f73246a6dc2df7c04f9eb96b071f691e4cd743153da5c9bea3814d359a3b88ff5893e60d1b46d6caca2b8d4e4c9
 Description: 為YouTube Tools添加繁體中文/簡體中文語言體系
-Author: Deon
 Name: YouTube Tools 繁簡中文包
+Author: Deon
 
 Package: com.deon.roc
-Version: 2.0
 Architecture: iphoneos-arm
+Version: 2.0
+Section: System
 Maintainer: Deon
 Depends: firmware (>= 11.0)
-Filename: debs/com.deon.roc_2.0_iphoneos-arm.deb
+Filename: ./debs/com.deon.roc_2.0_iphoneos-arm.deb
 Size: 1532
 MD5sum: ce5b1e797e1a31a1cb37709e8affdb29
 SHA1: d402c58f2201a44221a5924faf30061a63fc451f
 SHA256: 7fb7ad17639a20bcc6407e7859be53ace105d847eef75484ae6745b9855b3170
-Section: System
+SHA512: 6658cd45f9c752e7c159391b1356ae83bb65e89171186147170bd64ee555f4eccafc0f79caa7c26893b0879c39ccf492cf618dd38e88855fda8270c1c9ebcadc
 Description: 修復 iOS 中華民國歷丟失的問題，安裝完成後即可去系統設定中華民國歷（ROC CALENDAR）。  Fix iOS ROC Calendar disappear. After installation, you could go to settings to set ROC Calendar.
-Author: Deon
 Name: Fix ROC Calendar
+Author: Deon
 
